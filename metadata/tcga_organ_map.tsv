@@ -1,0 +1,34 @@
+Cancer type	TCGA organ	DepMap organ
+ACC	Adrenal Gland	Adrenal Gland
+BLCA	Bladder	Bladder/Urinary Tract
+BRCA	Breast	Breast
+CESC	Cervix	Cervix
+CHOL	Biliary	Biliary Tract
+COAD	Colon_Rectum	Bowel
+DLBC	Lymphoid	Lymphoid
+ESCA	Esophagus	Esophagus/Stomach
+GBM	CNS	CNS/Brain
+HNSC	Head_Neck	Head and Neck
+KICH	Kidney	Kidney
+KIRC	Kidney	Kidney
+KIRP	Kidney	Kidney
+LAML	Myeloid	Myeloid
+LGG	CNS	CNS/Brain
+LIHC	Liver	Liver
+LUAD	Lung	Lung
+LUSC	Lung	Lung
+MESO	Mesothelium	Pleura
+OV	Ovary	Ovary/Fallopian Tube
+PAAD	Pancreas	Pancreas
+PCPG	Adrenal Gland and other	Adrenal Gland
+PRAD	Prostate	Prostate
+READ	Colon_Rectum	Bowel
+SARC	Sarcoma	Bone,Soft Tissue
+SKCM	Skin	Skin
+STAD	Stomach	Esophagus/Stomach
+TGCT	Testis	Testis
+THCA	Thyroid	Thyroid
+THYM	Thymus	
+UCEC	Uterus	Uterus
+UCS	Uterus	Uterus
+UVM	Eye	Eye

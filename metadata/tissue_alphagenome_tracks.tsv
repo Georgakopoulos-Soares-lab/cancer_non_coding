@@ -1,0 +1,984 @@
+tissue	target_index	track_name	strand	assay_title	output_type	ontology_curie	biosample_name	biosample_type	biosample_life_stage	data_source	gtex_tissue	histone_mark	transcription_factor	nonzero_mean	matched_patterns
+Adrenal Gland	1655	UBERON:0002369 gtex Adrenal_Gland polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	gtex	Adrenal_Gland			0.05743984505534172	\badrenal gland\b
+Adrenal Gland	4737	usage_UBERON:0002369 gtex Adrenal_Gland polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002369	adrenal gland	tissue	adult	gtex	Adrenal_Gland				\badrenal gland\b
+Adrenal Gland	5104	usage_UBERON:0002369 gtex Adrenal_Gland polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002369	adrenal gland	tissue	adult	gtex	Adrenal_Gland				\badrenal gland\b
+Adrenal Gland	5471	junction_UBERON:0002369 gtex Adrenal_Gland polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002369	adrenal gland	tissue			Adrenal_Gland				\badrenal gland\b
+Adrenal Gland	1264	UBERON:0002369 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	encode				0.10644026100635529	\badrenal gland\b
+Adrenal Gland	1535	UBERON:0002369 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	encode				0.10644026100635529	\badrenal gland\b
+Adrenal Gland	1656	UBERON:0002369 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	embryonic	encode				0.32479262351989746	\badrenal gland\b
+Adrenal Gland	4738	usage_UBERON:0002369 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002369	adrenal gland	tissue	adult	encode					\badrenal gland\b
+Adrenal Gland	5105	usage_UBERON:0002369 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002369	adrenal gland	tissue	adult	encode					\badrenal gland\b
+Adrenal Gland	151	UBERON:0002369 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002369	adrenal gland	tissue	adult	encode				0.9822091460227966	\badrenal gland\b
+Adrenal Gland	985	UBERON:0002369 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002369	adrenal gland	tissue	adult	encode				0.24145561456680298	\badrenal gland\b
+Adrenal Gland	2674	UBERON:0002369 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002369	adrenal gland	tissue	adult	encode		H3K27ac		0.7852216958999634	\badrenal gland\b
+Adrenal Gland	2675	UBERON:0002369 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002369	adrenal gland	tissue	embryonic	encode		H3K27me3		1.6154215335845947	\badrenal gland\b
+Adrenal Gland	2676	UBERON:0002369 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002369	adrenal gland	tissue	adult	encode		H3K36me3		0.8357100486755371	\badrenal gland\b
+Adrenal Gland	2677	UBERON:0002369 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002369	adrenal gland	tissue	adult	encode		H3K4me1		0.8265619277954102	\badrenal gland\b
+Adrenal Gland	2678	UBERON:0002369 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002369	adrenal gland	tissue	adult	encode		H3K4me3		0.9138931035995483	\badrenal gland\b
+Adrenal Gland	2679	UBERON:0002369 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002369	adrenal gland	tissue	embryonic	encode		H3K9me3		1.4173235893249512	\badrenal gland\b
+Adrenal Gland	4386	UBERON:0002369 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002369	adrenal gland	tissue	adult	encode			CTCF	0.6967421174049377	\badrenal gland\b
+Adrenal Gland	4387	UBERON:0002369 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002369	adrenal gland	tissue	adult	encode			POLR2A	0.7263386249542236	\badrenal gland\b
+Adrenal Gland	1265	UBERON:0002369 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	encode				0.09952406585216522	\badrenal gland\b
+Adrenal Gland	1536	UBERON:0002369 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	encode				0.09952406585216522	\badrenal gland\b
+Adrenal Gland	418	hCAGE UBERON:0002369	+	hCAGE	OutputType.CAGE	UBERON:0002369	adrenal gland	tissue		fantom				829.8981323242188	\badrenal gland\b
+Adrenal Gland	691	hCAGE UBERON:0002369	-	hCAGE	OutputType.CAGE	UBERON:0002369	adrenal gland	tissue		fantom				829.8981323242188	\badrenal gland\b
+Adrenal Gland	5472	junction_UBERON:0002369 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002369	adrenal gland	tissue							\badrenal gland\b
+Adrenal Gland	5473	junction_UBERON:0002369 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002369	adrenal gland	tissue							\badrenal gland\b
+Adrenal Gland	4739	usage_UBERON:0002369 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002369	adrenal gland	tissue	adult	encode					\badrenal gland\b
+Adrenal Gland	5106	usage_UBERON:0002369 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002369	adrenal gland	tissue	adult	encode					\badrenal gland\b
+Bladder	1625	UBERON:0001255 gtex Bladder polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	adult	gtex	Bladder			0.09805270284414291	\bbladder\b;\burinary bladder\b
+Bladder	4667	usage_UBERON:0001255 gtex Bladder polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001255	urinary bladder	tissue	adult	gtex	Bladder				\bbladder\b;\burinary bladder\b
+Bladder	5034	usage_UBERON:0001255 gtex Bladder polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001255	urinary bladder	tissue	adult	gtex	Bladder				\bbladder\b;\burinary bladder\b
+Bladder	5401	junction_UBERON:0001255 gtex Bladder polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001255	urinary bladder	tissue			Bladder				\bbladder\b;\burinary bladder\b
+Bladder	1218	UBERON:0001255 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	child	encode				0.2732574939727783	\bbladder\b;\burinary bladder\b
+Bladder	1489	UBERON:0001255 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	child	encode				0.2732574939727783	\bbladder\b;\burinary bladder\b
+Bladder	4668	usage_UBERON:0001255 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001255	urinary bladder	tissue	child	encode					\bbladder\b;\burinary bladder\b
+Bladder	5035	usage_UBERON:0001255 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001255	urinary bladder	tissue	child	encode					\bbladder\b;\burinary bladder\b
+Bladder	134	UBERON:0001259 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0001259	mucosa of urinary bladder	tissue	adult	encode				0.6834927201271057	\bbladder\b;\burinary bladder\b
+Bladder	2539	UBERON:0001255 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001255	urinary bladder	tissue	adult	encode		H3K27ac		1.5340087413787842	\bbladder\b;\burinary bladder\b
+Bladder	2540	UBERON:0001255 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001255	urinary bladder	tissue	adult	encode		H3K4me3		1.249588966369629	\bbladder\b;\burinary bladder\b
+Bladder	1219	UBERON:0001255 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	embryonic	encode				0.06832712143659592	\bbladder\b;\burinary bladder\b
+Bladder	1490	UBERON:0001255 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	embryonic	encode				0.06832712143659592	\bbladder\b;\burinary bladder\b
+Bladder	364	hCAGE UBERON:0001255	+	hCAGE	OutputType.CAGE	UBERON:0001255	urinary bladder	tissue		fantom				48.4241943359375	\bbladder\b;\burinary bladder\b
+Bladder	637	hCAGE UBERON:0001255	-	hCAGE	OutputType.CAGE	UBERON:0001255	urinary bladder	tissue		fantom				48.4241943359375	\bbladder\b;\burinary bladder\b
+Bladder	5402	junction_UBERON:0001255 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001255	urinary bladder	tissue							\bbladder\b;\burinary bladder\b
+Bladder	5403	junction_UBERON:0001255 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001255	urinary bladder	tissue							\bbladder\b;\burinary bladder\b
+Bladder	4669	usage_UBERON:0001255 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001255	urinary bladder	tissue	embryonic	encode					\bbladder\b;\burinary bladder\b
+Bladder	5036	usage_UBERON:0001255 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001255	urinary bladder	tissue	embryonic	encode					\bbladder\b;\burinary bladder\b
+Breast	1672	UBERON:0008367 gtex Breast_Mammary_Tissue polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0008367	breast epithelium	tissue	adult	gtex	Breast_Mammary_Tissue			0.04591913893818855	\bbreast\b;\bbreast\b
+Breast	4765	usage_UBERON:0008367 gtex Breast_Mammary_Tissue polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008367	breast epithelium	tissue	adult	gtex	Breast_Mammary_Tissue				\bbreast\b;\bbreast\b
+Breast	5132	usage_UBERON:0008367 gtex Breast_Mammary_Tissue polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008367	breast epithelium	tissue	adult	gtex	Breast_Mammary_Tissue				\bbreast\b;\bbreast\b
+Breast	5499	junction_UBERON:0008367 gtex Breast_Mammary_Tissue polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0008367	breast epithelium	tissue			Breast_Mammary_Tissue				\bbreast\b;\bbreast\b
+Breast	338	hCAGE UBERON:0000310	+	hCAGE	OutputType.CAGE	UBERON:0000310	breast	tissue		fantom				203.0039520263672	\bbreast\b;\bbreast\b
+Breast	611	hCAGE UBERON:0000310	-	hCAGE	OutputType.CAGE	UBERON:0000310	breast	tissue		fantom				203.0039520263672	\bbreast\b;\bbreast\b
+Breast	159	UBERON:0008367 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0008367	breast epithelium	tissue	adult	encode				0.5911307334899902	\bbreast\b;\bbreast\b
+Breast	1000	UBERON:0008367 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0008367	breast epithelium	tissue	adult	encode				0.618876576423645	\bbreast\b;\bbreast\b
+Breast	2744	UBERON:0008367 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008367	breast epithelium	tissue	adult	encode		H3K27ac		0.7933363914489746	\bbreast\b;\bbreast\b
+Breast	2745	UBERON:0008367 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008367	breast epithelium	tissue	adult	encode		H3K27me3		0.8398851156234741	\bbreast\b;\bbreast\b
+Breast	2746	UBERON:0008367 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008367	breast epithelium	tissue	adult	encode		H3K36me3		0.8763333559036255	\bbreast\b;\bbreast\b
+Breast	2747	UBERON:0008367 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008367	breast epithelium	tissue	adult	encode		H3K4me3		0.8072652816772461	\bbreast\b;\bbreast\b
+Breast	2748	UBERON:0008367 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008367	breast epithelium	tissue	adult	encode		H3K9me3		0.8470003604888916	\bbreast\b;\bbreast\b
+Breast	4402	UBERON:0008367 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0008367	breast epithelium	tissue	adult	encode			CTCF	0.788176953792572	\bbreast\b;\bbreast\b
+Breast	4403	UBERON:0008367 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0008367	breast epithelium	tissue	adult	encode			POLR2A	0.8360593318939209	\bbreast\b;\bbreast\b
+Breast	4404	UBERON:0008367 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0008367	breast epithelium	tissue	adult	encode			POLR2AphosphoS5	0.8178426623344421	\bbreast\b;\bbreast\b
+Breast	1277	UBERON:0008367 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008367	breast epithelium	tissue	adult	encode				0.07852068543434143	\bbreast\b;\bbreast\b
+Breast	1548	UBERON:0008367 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008367	breast epithelium	tissue	adult	encode				0.07852068543434143	\bbreast\b;\bbreast\b
+Breast	5500	junction_UBERON:0008367 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0008367	breast epithelium	tissue							\bbreast\b;\bbreast\b
+Breast	4766	usage_UBERON:0008367 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008367	breast epithelium	tissue	adult	encode					\bbreast\b;\bbreast\b
+Breast	5133	usage_UBERON:0008367 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008367	breast epithelium	tissue	adult	encode					\bbreast\b;\bbreast\b
+Cervix	1667	UBERON:0006469 gtex Brain_Spinal_cord_cervical_c-1 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0006469	C1 segment of cervical spinal cord	tissue	adult	gtex	Brain_Spinal_cord_cervical_c-1			0.06018725037574768	\bcervical\b
+Cervix	4757	usage_UBERON:0006469 gtex Brain_Spinal_cord_cervical_c-1 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0006469	C1 segment of cervical spinal cord	tissue	adult	gtex	Brain_Spinal_cord_cervical_c-1				\bcervical\b
+Cervix	5124	usage_UBERON:0006469 gtex Brain_Spinal_cord_cervical_c-1 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0006469	C1 segment of cervical spinal cord	tissue	adult	gtex	Brain_Spinal_cord_cervical_c-1				\bcervical\b
+Cervix	1678	UBERON:0012249 gtex Cervix_Ectocervix polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0012249	ectocervix	tissue	adult	gtex	Cervix_Ectocervix			0.11553216725587845	\bectocervix\b
+Cervix	4780	usage_UBERON:0012249 gtex Cervix_Ectocervix polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0012249	ectocervix	tissue	adult	gtex	Cervix_Ectocervix				\bectocervix\b
+Cervix	5147	usage_UBERON:0012249 gtex Cervix_Ectocervix polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0012249	ectocervix	tissue	adult	gtex	Cervix_Ectocervix				\bectocervix\b
+Cervix	1608	UBERON:0000458 gtex Cervix_Endocervix polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000458	endocervix	tissue	adult	gtex	Cervix_Endocervix			0.11742750555276871	\bendocervix\b
+Cervix	4630	usage_UBERON:0000458 gtex Cervix_Endocervix polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000458	endocervix	tissue	adult	gtex	Cervix_Endocervix				\bendocervix\b
+Cervix	4997	usage_UBERON:0000458 gtex Cervix_Endocervix polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000458	endocervix	tissue	adult	gtex	Cervix_Endocervix				\bendocervix\b
+Cervix	5491	junction_UBERON:0006469 gtex Brain_Spinal_cord_cervical_c-1 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0006469	C1 segment of cervical spinal cord	tissue			Brain_Spinal_cord_cervical_c-1				\bcervical\b
+Cervix	5514	junction_UBERON:0012249 gtex Cervix_Ectocervix polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0012249	ectocervix	tissue			Cervix_Ectocervix				\bectocervix\b
+Cervix	5364	junction_UBERON:0000458 gtex Cervix_Endocervix polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000458	endocervix	tissue			Cervix_Endocervix				\bendocervix\b
+Cervix	330	hCAGE UBERON:0000002	+	hCAGE	OutputType.CAGE	UBERON:0000002	uterine cervix	tissue		fantom				35.90520477294922	\bcervix\b
+Cervix	603	hCAGE UBERON:0000002	-	hCAGE	OutputType.CAGE	UBERON:0000002	uterine cervix	tissue		fantom				35.90520477294922	\bcervix\b
+Biliary	152	UBERON:0002394 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002394	bile duct	tissue	adult	encode				0.4307073652744293	\bbile duct\b
+Biliary	402	hCAGE UBERON:0002110	+	hCAGE	OutputType.CAGE	UBERON:0002110	gallbladder	tissue		fantom				72.35385131835938	\bgallbladder\b;\bgallbladder\b
+Biliary	675	hCAGE UBERON:0002110	-	hCAGE	OutputType.CAGE	UBERON:0002110	gallbladder	tissue		fantom				72.35385131835938	\bgallbladder\b;\bgallbladder\b
+Biliary	157	UBERON:0005033 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0005033	mucosa of gallbladder	tissue	child	encode				0.8860199451446533	\bgallbladder\b;\bgallbladder\b
+Biliary	996	UBERON:0005033 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0005033	mucosa of gallbladder	tissue	child	encode				0.7470425963401794	\bgallbladder\b;\bgallbladder\b
+Biliary	1273	UBERON:0005033 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0005033	mucosa of gallbladder	tissue	child	encode				0.1606866717338562	\bgallbladder\b;\bgallbladder\b
+Biliary	1544	UBERON:0005033 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0005033	mucosa of gallbladder	tissue	child	encode				0.1606866717338562	\bgallbladder\b;\bgallbladder\b
+Biliary	5488	junction_UBERON:0005033 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0005033	mucosa of gallbladder	tissue							\bgallbladder\b;\bgallbladder\b
+Biliary	4754	usage_UBERON:0005033 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0005033	mucosa of gallbladder	tissue	child	encode					\bgallbladder\b;\bgallbladder\b
+Biliary	5121	usage_UBERON:0005033 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0005033	mucosa of gallbladder	tissue	child	encode					\bgallbladder\b;\bgallbladder\b
+Colon	1621	UBERON:0001159 gtex Colon_Sigmoid polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	gtex	Colon_Sigmoid			0.0509834922850132	\bcolon\b;\bcolon\b
+Colon	4660	usage_UBERON:0001159 gtex Colon_Sigmoid polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001159	sigmoid colon	tissue	adult	gtex	Colon_Sigmoid				\bcolon\b;\bcolon\b
+Colon	5027	usage_UBERON:0001159 gtex Colon_Sigmoid polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001159	sigmoid colon	tissue	adult	gtex	Colon_Sigmoid				\bcolon\b;\bcolon\b
+Colon	1620	UBERON:0001157 gtex Colon_Transverse polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001157	transverse colon	tissue	adult	gtex	Colon_Transverse			0.049934789538383484	\bcolon\b;\bcolon\b
+Colon	4658	usage_UBERON:0001157 gtex Colon_Transverse polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001157	transverse colon	tissue	adult	gtex	Colon_Transverse				\bcolon\b;\bcolon\b
+Colon	5025	usage_UBERON:0001157 gtex Colon_Transverse polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001157	transverse colon	tissue	adult	gtex	Colon_Transverse				\bcolon\b;\bcolon\b
+Colon	5394	junction_UBERON:0001159 gtex Colon_Sigmoid polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001159	sigmoid colon	tissue			Colon_Sigmoid				\bcolon\b;\bcolon\b
+Colon	5392	junction_UBERON:0001157 gtex Colon_Transverse polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001157	transverse colon	tissue			Colon_Transverse				\bcolon\b;\bcolon\b
+Colon	1215	UBERON:0001159 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	encode				0.3216996192932129	\bcolon\b;\bcolon\b
+Colon	1486	UBERON:0001159 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	encode				0.3216996192932129	\bcolon\b;\bcolon\b
+Colon	4661	usage_UBERON:0001159 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001159	sigmoid colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Colon	5028	usage_UBERON:0001159 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001159	sigmoid colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Colon	363	hCAGE UBERON:0001155	+	hCAGE	OutputType.CAGE	UBERON:0001155	colon	tissue		fantom				35.34465789794922	\bcolon\b;\bcolon\b
+Colon	636	hCAGE UBERON:0001155	-	hCAGE	OutputType.CAGE	UBERON:0001155	colon	tissue		fantom				35.34465789794922	\bcolon\b;\bcolon\b
+Colon	163	UBERON:0008971 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0008971	left colon	tissue	adult	encode				0.6758714914321899	\bcolon\b;\bcolon\b
+Colon	1004	UBERON:0008971 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0008971	left colon	tissue	adult	encode				0.6561613082885742	\bcolon\b;\bcolon\b
+Colon	1282	UBERON:0008971 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008971	left colon	tissue	adult	encode				0.1311025470495224	\bcolon\b;\bcolon\b
+Colon	1553	UBERON:0008971 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008971	left colon	tissue	adult	encode				0.1311025470495224	\bcolon\b;\bcolon\b
+Colon	5506	junction_UBERON:0008971 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0008971	left colon	tissue							\bcolon\b;\bcolon\b
+Colon	4772	usage_UBERON:0008971 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008971	left colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Colon	5139	usage_UBERON:0008971 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008971	left colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Colon	156	UBERON:0004992 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0004992	mucosa of descending colon	tissue	adult	encode				0.2983551621437073	\bcolon\b;\bcolon\b
+Colon	995	UBERON:0004992 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0004992	mucosa of descending colon	tissue	adult	encode				0.44594788551330566	\bcolon\b;\bcolon\b
+Colon	2723	UBERON:0004992 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004992	mucosa of descending colon	tissue	adult	encode		H3K4me1		0.9400363564491272	\bcolon\b;\bcolon\b
+Colon	2724	UBERON:0004992 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004992	mucosa of descending colon	tissue	adult	encode		H3K4me3		0.9843800067901611	\bcolon\b;\bcolon\b
+Colon	2725	UBERON:0004992 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004992	mucosa of descending colon	tissue	adult	encode		H3K9me3		1.0794081687927246	\bcolon\b;\bcolon\b
+Colon	4397	UBERON:0004992 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0004992	mucosa of descending colon	tissue	adult	encode			CTCF	0.9853171110153198	\bcolon\b;\bcolon\b
+Colon	1272	UBERON:0004992 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004992	mucosa of descending colon	tissue	adult	encode				0.10411433130502701	\bcolon\b;\bcolon\b
+Colon	1543	UBERON:0004992 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004992	mucosa of descending colon	tissue	adult	encode				0.10411433130502701	\bcolon\b;\bcolon\b
+Colon	5487	junction_UBERON:0004992 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0004992	mucosa of descending colon	tissue							\bcolon\b;\bcolon\b
+Colon	4753	usage_UBERON:0004992 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004992	mucosa of descending colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Colon	5120	usage_UBERON:0004992 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004992	mucosa of descending colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Colon	2700	UBERON:0003346 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0003346	mucosa of rectum	tissue	adult	encode		H3K27ac		1.2068597078323364	\brectum\b
+Colon	2701	UBERON:0003346 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0003346	mucosa of rectum	tissue	adult	encode		H3K36me3		0.8918594121932983	\brectum\b
+Colon	2702	UBERON:0003346 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0003346	mucosa of rectum	tissue	adult	encode		H3K4me1		0.9211472272872925	\brectum\b
+Colon	2703	UBERON:0003346 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0003346	mucosa of rectum	tissue	adult	encode		H3K4me3		0.9614381790161133	\brectum\b
+Colon	2704	UBERON:0003346 Histone ChIP-seq H3K9ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0003346	mucosa of rectum	tissue	adult	encode		H3K9ac		0.8959307074546814	\brectum\b
+Colon	2780	UBERON:0012489 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0012489	muscle layer of colon	tissue	adult	encode		H3K27ac		1.6868175268173218	\bcolon\b;\bcolon\b
+Colon	2781	UBERON:0012489 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0012489	muscle layer of colon	tissue	adult	encode		H3K36me3		0.9592627882957458	\bcolon\b;\bcolon\b
+Colon	2782	UBERON:0012489 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0012489	muscle layer of colon	tissue	adult	encode		H3K4me1		0.9385117888450623	\bcolon\b;\bcolon\b
+Colon	2783	UBERON:0012489 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0012489	muscle layer of colon	tissue	adult	encode		H3K4me3		0.8421162962913513	\bcolon\b;\bcolon\b
+Colon	2784	UBERON:0012489 Histone ChIP-seq H3K9ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0012489	muscle layer of colon	tissue	adult	encode		H3K9ac		0.8927491307258606	\bcolon\b;\bcolon\b
+Colon	358	hCAGE UBERON:0001052	+	hCAGE	OutputType.CAGE	UBERON:0001052	rectum	tissue		fantom				130.85585021972656	\brectum\b
+Colon	631	hCAGE UBERON:0001052	-	hCAGE	OutputType.CAGE	UBERON:0001052	rectum	tissue		fantom				130.85585021972656	\brectum\b
+Colon	133	UBERON:0001159 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0001159	sigmoid colon	tissue	adult	encode				1.3383288383483887	\bcolon\b;\bcolon\b
+Colon	946	UBERON:0001159 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001159	sigmoid colon	tissue	adult	encode				0.9145393967628479	\bcolon\b;\bcolon\b
+Colon	2525	UBERON:0001159 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001159	sigmoid colon	tissue	adult	encode		H3K27ac		0.7376067638397217	\bcolon\b;\bcolon\b
+Colon	2526	UBERON:0001159 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001159	sigmoid colon	tissue	adult	encode		H3K27me3		0.862529993057251	\bcolon\b;\bcolon\b
+Colon	2527	UBERON:0001159 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001159	sigmoid colon	tissue	adult	encode		H3K36me3		0.8250663876533508	\bcolon\b;\bcolon\b
+Colon	2528	UBERON:0001159 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001159	sigmoid colon	tissue	adult	encode		H3K4me1		0.8141694664955139	\bcolon\b;\bcolon\b
+Colon	2529	UBERON:0001159 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001159	sigmoid colon	tissue	adult	encode		H3K4me3		0.9082852602005005	\bcolon\b;\bcolon\b
+Colon	4339	UBERON:0001159 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001159	sigmoid colon	tissue	adult	encode			CTCF	0.7886322140693665	\bcolon\b;\bcolon\b
+Colon	4340	UBERON:0001159 TF ChIP-seq EP300	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001159	sigmoid colon	tissue	adult	encode			EP300	0.7754862308502197	\bcolon\b;\bcolon\b
+Colon	4341	UBERON:0001159 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001159	sigmoid colon	tissue	adult	encode			POLR2A	0.7840871214866638	\bcolon\b;\bcolon\b
+Colon	4342	UBERON:0001159 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001159	sigmoid colon	tissue	adult	encode			POLR2AphosphoS5	0.6263894438743591	\bcolon\b;\bcolon\b
+Colon	1216	UBERON:0001159 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	encode				0.09938795119524002	\bcolon\b;\bcolon\b
+Colon	1487	UBERON:0001159 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	encode				0.09938795119524002	\bcolon\b;\bcolon\b
+Colon	5395	junction_UBERON:0001159 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001159	sigmoid colon	tissue							\bcolon\b;\bcolon\b
+Colon	5396	junction_UBERON:0001159 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001159	sigmoid colon	tissue							\bcolon\b;\bcolon\b
+Colon	4662	usage_UBERON:0001159 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001159	sigmoid colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Colon	5029	usage_UBERON:0001159 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001159	sigmoid colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Colon	132	UBERON:0001157 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0001157	transverse colon	tissue	adult	encode				1.2739818096160889	\bcolon\b;\bcolon\b
+Colon	945	UBERON:0001157 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001157	transverse colon	tissue	adult	encode				1.0917359590530396	\bcolon\b;\bcolon\b
+Colon	2520	UBERON:0001157 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001157	transverse colon	tissue	adult	encode		H3K27ac		0.7854095697402954	\bcolon\b;\bcolon\b
+Colon	2521	UBERON:0001157 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001157	transverse colon	tissue	adult	encode		H3K27me3		0.8251835703849792	\bcolon\b;\bcolon\b
+Colon	2522	UBERON:0001157 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001157	transverse colon	tissue	adult	encode		H3K36me3		0.8235317468643188	\bcolon\b;\bcolon\b
+Colon	2523	UBERON:0001157 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001157	transverse colon	tissue	adult	encode		H3K4me1		0.8129381537437439	\bcolon\b;\bcolon\b
+Colon	2524	UBERON:0001157 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001157	transverse colon	tissue	adult	encode		H3K4me3		0.8056944012641907	\bcolon\b;\bcolon\b
+Colon	4335	UBERON:0001157 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001157	transverse colon	tissue	adult	encode			CTCF	0.7121732234954834	\bcolon\b;\bcolon\b
+Colon	4336	UBERON:0001157 TF ChIP-seq EP300	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001157	transverse colon	tissue	adult	encode			EP300	1.2841821908950806	\bcolon\b;\bcolon\b
+Colon	4337	UBERON:0001157 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001157	transverse colon	tissue	adult	encode			POLR2A	0.7271764874458313	\bcolon\b;\bcolon\b
+Colon	4338	UBERON:0001157 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001157	transverse colon	tissue	adult	encode			POLR2AphosphoS5	0.7033071517944336	\bcolon\b;\bcolon\b
+Colon	1214	UBERON:0001157 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001157	transverse colon	tissue	adult	encode				0.09727869927883148	\bcolon\b;\bcolon\b
+Colon	1485	UBERON:0001157 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001157	transverse colon	tissue	adult	encode				0.09727869927883148	\bcolon\b;\bcolon\b
+Colon	5393	junction_UBERON:0001157 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001157	transverse colon	tissue							\bcolon\b;\bcolon\b
+Colon	4659	usage_UBERON:0001157 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001157	transverse colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Colon	5026	usage_UBERON:0001157 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001157	transverse colon	tissue	adult	encode					\bcolon\b;\bcolon\b
+Lymphoid	1585	EFO:0000572 gtex Cells_EBV-transformed_lymphocytes polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	EFO:0000572	lymphoblast	tissue	adult	gtex	Cells_EBV-transformed_lymphocytes			0.06413153558969498	\blymphoblast\b
+Lymphoid	4547	usage_EFO:0000572 gtex Cells_EBV-transformed_lymphocytes polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	EFO:0000572	lymphoblast	tissue	adult	gtex	Cells_EBV-transformed_lymphocytes				\blymphoblast\b
+Lymphoid	4914	usage_EFO:0000572 gtex Cells_EBV-transformed_lymphocytes polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	EFO:0000572	lymphoblast	tissue	adult	gtex	Cells_EBV-transformed_lymphocytes				\blymphoblast\b
+Lymphoid	1643	UBERON:0002106 gtex Spleen polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	gtex	Spleen			0.05477229878306389	\bspleen\b;\bspleen\b
+Lymphoid	4715	usage_UBERON:0002106 gtex Spleen polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002106	spleen	tissue	adult	gtex	Spleen				\bspleen\b;\bspleen\b
+Lymphoid	5082	usage_UBERON:0002106 gtex Spleen polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002106	spleen	tissue	adult	gtex	Spleen				\bspleen\b;\bspleen\b
+Lymphoid	1679	UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0013756	venous blood	tissue	adult	gtex	Whole_Blood			0.05588344484567642	\bblood\b
+Lymphoid	4781	usage_UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0013756	venous blood	tissue	adult	gtex	Whole_Blood				\bblood\b
+Lymphoid	5148	usage_UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0013756	venous blood	tissue	adult	gtex	Whole_Blood				\bblood\b
+Lymphoid	5281	junction_EFO:0000572 gtex Cells_EBV-transformed_lymphocytes polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	EFO:0000572	lymphoblast	tissue			Cells_EBV-transformed_lymphocytes				\blymphoblast\b
+Lymphoid	5449	junction_UBERON:0002106 gtex Spleen polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002106	spleen	tissue			Spleen				\bspleen\b;\bspleen\b
+Lymphoid	5515	junction_UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0013756	venous blood	tissue			Whole_Blood				\bblood\b
+Lymphoid	1249	UBERON:0002106 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	encode				0.12643910944461823	\bspleen\b;\bspleen\b
+Lymphoid	1520	UBERON:0002106 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	encode				0.12643910944461823	\bspleen\b;\bspleen\b
+Lymphoid	1644	UBERON:0002106 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	embryonic	encode				0.39663490653038025	\bspleen\b;\bspleen\b
+Lymphoid	4716	usage_UBERON:0002106 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002106	spleen	tissue	adult	encode					\bspleen\b;\bspleen\b
+Lymphoid	5083	usage_UBERON:0002106 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002106	spleen	tissue	adult	encode					\bspleen\b;\bspleen\b
+Lymphoid	1266	UBERON:0002370 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode				0.13122648000717163	\bthymus\b
+Lymphoid	1537	UBERON:0002370 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode				0.13122648000717163	\bthymus\b
+Lymphoid	1657	UBERON:0002370 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode				0.17336340248584747	\bthymus\b
+Lymphoid	4740	usage_UBERON:0002370 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002370	thymus	tissue	embryonic	encode					\bthymus\b
+Lymphoid	5107	usage_UBERON:0002370 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002370	thymus	tissue	embryonic	encode					\bthymus\b
+Lymphoid	144	UBERON:0002106 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002106	spleen	tissue	adult	encode				0.18534542620182037	\bspleen\b;\bspleen\b
+Lymphoid	972	UBERON:0002106 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002106	spleen	tissue	adult	encode				0.8771628141403198	\bspleen\b;\bspleen\b
+Lymphoid	2623	UBERON:0002106 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002106	spleen	tissue	adult	encode		H3K27ac		0.7800244092941284	\bspleen\b;\bspleen\b
+Lymphoid	2624	UBERON:0002106 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002106	spleen	tissue	adult	encode		H3K27me3		0.8321865200996399	\bspleen\b;\bspleen\b
+Lymphoid	2625	UBERON:0002106 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002106	spleen	tissue	adult	encode		H3K36me3		0.8215964436531067	\bspleen\b;\bspleen\b
+Lymphoid	2626	UBERON:0002106 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002106	spleen	tissue	adult	encode		H3K4me1		0.8138890862464905	\bspleen\b;\bspleen\b
+Lymphoid	2627	UBERON:0002106 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002106	spleen	tissue	adult	encode		H3K4me3		0.7977772951126099	\bspleen\b;\bspleen\b
+Lymphoid	2628	UBERON:0002106 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002106	spleen	tissue	adult	encode		H3K9me3		0.8140273690223694	\bspleen\b;\bspleen\b
+Lymphoid	4359	UBERON:0002106 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002106	spleen	tissue	adult	encode			CTCF	0.7327548265457153	\bspleen\b;\bspleen\b
+Lymphoid	4360	UBERON:0002106 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002106	spleen	tissue	adult	encode			POLR2A	0.8179008960723877	\bspleen\b;\bspleen\b
+Lymphoid	4361	UBERON:0002106 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002106	spleen	tissue	adult	encode			POLR2AphosphoS5	0.8303864002227783	\bspleen\b;\bspleen\b
+Lymphoid	1250	UBERON:0002106 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	encode				0.08943069726228714	\bspleen\b;\bspleen\b
+Lymphoid	1521	UBERON:0002106 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	encode				0.08943069726228714	\bspleen\b;\bspleen\b
+Lymphoid	399	hCAGE UBERON:0002106	+	hCAGE	OutputType.CAGE	UBERON:0002106	spleen	tissue		fantom				28.623931884765625	\bspleen\b;\bspleen\b
+Lymphoid	672	hCAGE UBERON:0002106	-	hCAGE	OutputType.CAGE	UBERON:0002106	spleen	tissue		fantom				28.623931884765625	\bspleen\b;\bspleen\b
+Lymphoid	5450	junction_UBERON:0002106 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002106	spleen	tissue							\bspleen\b;\bspleen\b
+Lymphoid	5451	junction_UBERON:0002106 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002106	spleen	tissue							\bspleen\b;\bspleen\b
+Lymphoid	4717	usage_UBERON:0002106 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002106	spleen	tissue	adult	encode					\bspleen\b;\bspleen\b
+Lymphoid	5084	usage_UBERON:0002106 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002106	spleen	tissue	adult	encode					\bspleen\b;\bspleen\b
+Lymphoid	986	UBERON:0002370 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002370	thymus	tissue	embryonic	encode				0.23071163892745972	\bthymus\b
+Lymphoid	2680	UBERON:0002370 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K27ac		0.9632824063301086	\bthymus\b
+Lymphoid	2681	UBERON:0002370 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K27me3		0.9465627074241638	\bthymus\b
+Lymphoid	2682	UBERON:0002370 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K36me3		1.3685346841812134	\bthymus\b
+Lymphoid	2683	UBERON:0002370 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K4me1		1.824151873588562	\bthymus\b
+Lymphoid	2684	UBERON:0002370 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K4me3		1.1562947034835815	\bthymus\b
+Lymphoid	2685	UBERON:0002370 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K9me3		1.4777132272720337	\bthymus\b
+Lymphoid	419	hCAGE UBERON:0002370	+	hCAGE	OutputType.CAGE	UBERON:0002370	thymus	tissue		fantom				22.066835403442383	\bthymus\b
+Lymphoid	692	hCAGE UBERON:0002370	-	hCAGE	OutputType.CAGE	UBERON:0002370	thymus	tissue		fantom				22.066835403442383	\bthymus\b
+Lymphoid	5474	junction_UBERON:0002370 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002370	thymus	tissue							\bthymus\b
+Lymphoid	421	hCAGE UBERON:0002372	+	hCAGE	OutputType.CAGE	UBERON:0002372	tonsil	tissue		fantom				45.03621292114258	\btonsil\b
+Lymphoid	694	hCAGE UBERON:0002372	-	hCAGE	OutputType.CAGE	UBERON:0002372	tonsil	tissue		fantom				45.03621292114258	\btonsil\b
+Esophagus	1664	UBERON:0004648 gtex Esophagus_Muscularis polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	gtex	Esophagus_Muscularis			0.05034983530640602	\besophagus\b;\besophagus\b
+Esophagus	4751	usage_UBERON:0004648 gtex Esophagus_Muscularis polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	gtex	Esophagus_Muscularis				\besophagus\b;\besophagus\b
+Esophagus	5118	usage_UBERON:0004648 gtex Esophagus_Muscularis polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	gtex	Esophagus_Muscularis				\besophagus\b;\besophagus\b
+Esophagus	1670	UBERON:0006920 gtex Esophagus_Mucosa polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0006920	esophagus squamous epithelium	tissue	adult	gtex	Esophagus_Mucosa			0.05086713656783104	\besophagus\b;\besophagus\b
+Esophagus	4761	usage_UBERON:0006920 gtex Esophagus_Mucosa polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	gtex	Esophagus_Mucosa				\besophagus\b;\besophagus\b
+Esophagus	5128	usage_UBERON:0006920 gtex Esophagus_Mucosa polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	gtex	Esophagus_Mucosa				\besophagus\b;\besophagus\b
+Esophagus	5485	junction_UBERON:0004648 gtex Esophagus_Muscularis polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0004648	esophagus muscularis mucosa	tissue			Esophagus_Muscularis				\besophagus\b;\besophagus\b
+Esophagus	5495	junction_UBERON:0006920 gtex Esophagus_Mucosa polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0006920	esophagus squamous epithelium	tissue			Esophagus_Mucosa				\besophagus\b;\besophagus\b
+Esophagus	1208	UBERON:0001043 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001043	esophagus	tissue	adult	encode				0.09775491803884506	\besophagus\b;\besophagus\b
+Esophagus	1479	UBERON:0001043 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001043	esophagus	tissue	adult	encode				0.09775491803884506	\besophagus\b;\besophagus\b
+Esophagus	4650	usage_UBERON:0001043 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001043	esophagus	tissue	adult	encode					\besophagus\b;\besophagus\b
+Esophagus	5017	usage_UBERON:0001043 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001043	esophagus	tissue	adult	encode					\besophagus\b;\besophagus\b
+Esophagus	2502	UBERON:0001043 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001043	esophagus	tissue	adult	encode		H3K27ac		1.2696486711502075	\besophagus\b;\besophagus\b
+Esophagus	2503	UBERON:0001043 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001043	esophagus	tissue	adult	encode		H3K36me3		1.5379191637039185	\besophagus\b;\besophagus\b
+Esophagus	2504	UBERON:0001043 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001043	esophagus	tissue	adult	encode		H3K4me1		1.4723411798477173	\besophagus\b;\besophagus\b
+Esophagus	2505	UBERON:0001043 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001043	esophagus	tissue	adult	encode		H3K4me3		0.9049034118652344	\besophagus\b;\besophagus\b
+Esophagus	2506	UBERON:0001043 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001043	esophagus	tissue	adult	encode		H3K9me3		1.5137780904769897	\besophagus\b;\besophagus\b
+Esophagus	356	hCAGE UBERON:0001043	+	hCAGE	OutputType.CAGE	UBERON:0001043	esophagus	tissue		fantom				51.76528549194336	\besophagus\b;\besophagus\b
+Esophagus	629	hCAGE UBERON:0001043	-	hCAGE	OutputType.CAGE	UBERON:0001043	esophagus	tissue		fantom				51.76528549194336	\besophagus\b;\besophagus\b
+Esophagus	5384	junction_UBERON:0001043 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001043	esophagus	tissue							\besophagus\b;\besophagus\b
+Esophagus	153	UBERON:0002469 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002469	esophagus mucosa	tissue	adult	encode				0.3933384418487549	\besophagus\b;\besophagus\b
+Esophagus	1267	UBERON:0002469 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002469	esophagus mucosa	tissue	adult	encode				0.2322499006986618	\besophagus\b;\besophagus\b
+Esophagus	1538	UBERON:0002469 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002469	esophagus mucosa	tissue	adult	encode				0.2322499006986618	\besophagus\b;\besophagus\b
+Esophagus	5475	junction_UBERON:0002469 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002469	esophagus mucosa	tissue							\besophagus\b;\besophagus\b
+Esophagus	4741	usage_UBERON:0002469 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002469	esophagus mucosa	tissue	adult	encode					\besophagus\b;\besophagus\b
+Esophagus	5108	usage_UBERON:0002469 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002469	esophagus mucosa	tissue	adult	encode					\besophagus\b;\besophagus\b
+Esophagus	2717	UBERON:0004648 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode		H3K27ac		0.7982273697853088	\besophagus\b;\besophagus\b
+Esophagus	2718	UBERON:0004648 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode		H3K27me3		0.9206722378730774	\besophagus\b;\besophagus\b
+Esophagus	2719	UBERON:0004648 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode		H3K36me3		0.816602349281311	\besophagus\b;\besophagus\b
+Esophagus	2720	UBERON:0004648 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode		H3K4me1		0.8247384428977966	\besophagus\b;\besophagus\b
+Esophagus	2721	UBERON:0004648 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode		H3K4me3		0.7969858050346375	\besophagus\b;\besophagus\b
+Esophagus	2722	UBERON:0004648 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode		H3K9me3		0.8506141304969788	\besophagus\b;\besophagus\b
+Esophagus	4394	UBERON:0004648 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode			CTCF	0.7832911610603333	\besophagus\b;\besophagus\b
+Esophagus	4395	UBERON:0004648 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode			POLR2A	1.0356718301773071	\besophagus\b;\besophagus\b
+Esophagus	4396	UBERON:0004648 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode			POLR2AphosphoS5	0.6784900426864624	\besophagus\b;\besophagus\b
+Esophagus	1271	UBERON:0004648 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode				0.1068030372262001	\besophagus\b;\besophagus\b
+Esophagus	1542	UBERON:0004648 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode				0.1068030372262001	\besophagus\b;\besophagus\b
+Esophagus	5486	junction_UBERON:0004648 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0004648	esophagus muscularis mucosa	tissue							\besophagus\b;\besophagus\b
+Esophagus	4752	usage_UBERON:0004648 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode					\besophagus\b;\besophagus\b
+Esophagus	5119	usage_UBERON:0004648 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode					\besophagus\b;\besophagus\b
+Esophagus	2731	UBERON:0006920 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode		H3K27ac		1.224211573600769	\besophagus\b;\besophagus\b
+Esophagus	2732	UBERON:0006920 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode		H3K27me3		0.9047441482543945	\besophagus\b;\besophagus\b
+Esophagus	2733	UBERON:0006920 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode		H3K36me3		0.8787626624107361	\besophagus\b;\besophagus\b
+Esophagus	2734	UBERON:0006920 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode		H3K4me1		0.8141622543334961	\besophagus\b;\besophagus\b
+Esophagus	2735	UBERON:0006920 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode		H3K4me3		0.8070417642593384	\besophagus\b;\besophagus\b
+Esophagus	2736	UBERON:0006920 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode		H3K9me3		0.8435921669006348	\besophagus\b;\besophagus\b
+Esophagus	4399	UBERON:0006920 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode			CTCF	0.7643803954124451	\besophagus\b;\besophagus\b
+Esophagus	4400	UBERON:0006920 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode			POLR2A	0.7627233862876892	\besophagus\b;\besophagus\b
+Esophagus	1275	UBERON:0006920 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode				0.09920122474431992	\besophagus\b;\besophagus\b
+Esophagus	1546	UBERON:0006920 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode				0.09920122474431992	\besophagus\b;\besophagus\b
+Esophagus	5496	junction_UBERON:0006920 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0006920	esophagus squamous epithelium	tissue							\besophagus\b;\besophagus\b
+Esophagus	4762	usage_UBERON:0006920 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode					\besophagus\b;\besophagus\b
+Esophagus	5129	usage_UBERON:0006920 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode					\besophagus\b;\besophagus\b
+CNS	1636	UBERON:0001876 gtex Brain_Amygdala polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001876	amygdala	tissue	adult	gtex	Brain_Amygdala			0.05657550320029259	\bamygdala\b
+CNS	4690	usage_UBERON:0001876 gtex Brain_Amygdala polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001876	amygdala	tissue	adult	gtex	Brain_Amygdala				\bamygdala\b
+CNS	5057	usage_UBERON:0001876 gtex Brain_Amygdala polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001876	amygdala	tissue	adult	gtex	Brain_Amygdala				\bamygdala\b
+CNS	1640	UBERON:0002037 gtex Brain_Cerebellum polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	adult	gtex	Brain_Cerebellum			0.05265718325972557	\bcerebellum\b;\bcerebellum\b
+CNS	4698	usage_UBERON:0002037 gtex Brain_Cerebellum polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002037	cerebellum	tissue	adult	gtex	Brain_Cerebellum				\bcerebellum\b;\bcerebellum\b
+CNS	5065	usage_UBERON:0002037 gtex Brain_Cerebellum polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002037	cerebellum	tissue	adult	gtex	Brain_Cerebellum				\bcerebellum\b;\bcerebellum\b
+CNS	1633	UBERON:0001870 gtex Brain_Cortex polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001870	frontal cortex	tissue	adult	gtex	Brain_Cortex			0.043324146419763565	\bfrontal cortex\b
+CNS	4684	usage_UBERON:0001870 gtex Brain_Cortex polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001870	frontal cortex	tissue	adult	gtex	Brain_Cortex				\bfrontal cortex\b
+CNS	5051	usage_UBERON:0001870 gtex Brain_Cortex polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001870	frontal cortex	tissue	adult	gtex	Brain_Cortex				\bfrontal cortex\b
+CNS	1638	UBERON:0001898 gtex Brain_Hypothalamus polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001898	hypothalamus	tissue	adult	gtex	Brain_Hypothalamus			0.05152333900332451	\bhypothalamus\b
+CNS	4693	usage_UBERON:0001898 gtex Brain_Hypothalamus polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001898	hypothalamus	tissue	adult	gtex	Brain_Hypothalamus				\bhypothalamus\b
+CNS	5060	usage_UBERON:0001898 gtex Brain_Hypothalamus polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001898	hypothalamus	tissue	adult	gtex	Brain_Hypothalamus				\bhypothalamus\b
+CNS	1635	UBERON:0001874 gtex Brain_Putamen_basal_ganglia polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001874	putamen	tissue	adult	gtex	Brain_Putamen_basal_ganglia			0.05428667739033699	\bputamen\b
+CNS	4689	usage_UBERON:0001874 gtex Brain_Putamen_basal_ganglia polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001874	putamen	tissue	adult	gtex	Brain_Putamen_basal_ganglia				\bputamen\b
+CNS	5056	usage_UBERON:0001874 gtex Brain_Putamen_basal_ganglia polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001874	putamen	tissue	adult	gtex	Brain_Putamen_basal_ganglia				\bputamen\b
+CNS	5424	junction_UBERON:0001876 gtex Brain_Amygdala polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001876	amygdala	tissue			Brain_Amygdala				\bamygdala\b
+CNS	5432	junction_UBERON:0002037 gtex Brain_Cerebellum polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002037	cerebellum	tissue			Brain_Cerebellum				\bcerebellum\b;\bcerebellum\b
+CNS	5418	junction_UBERON:0001870 gtex Brain_Cortex polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001870	frontal cortex	tissue			Brain_Cortex				\bfrontal cortex\b
+CNS	5427	junction_UBERON:0001898 gtex Brain_Hypothalamus polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001898	hypothalamus	tissue			Brain_Hypothalamus				\bhypothalamus\b
+CNS	5423	junction_UBERON:0001874 gtex Brain_Putamen_basal_ganglia polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001874	putamen	tissue			Brain_Putamen_basal_ganglia				\bputamen\b
+CNS	1202	UBERON:0000955 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000955	brain	tissue	adult	encode				0.6184623837471008	\bbrain\b;\bbrain\b
+CNS	1473	UBERON:0000955 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000955	brain	tissue	adult	encode				0.6184623837471008	\bbrain\b;\bbrain\b
+CNS	4641	usage_UBERON:0000955 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000955	brain	tissue	adult	encode					\bbrain\b;\bbrain\b
+CNS	5008	usage_UBERON:0000955 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000955	brain	tissue	adult	encode					\bbrain\b;\bbrain\b
+CNS	1235	UBERON:0002037 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	embryonic	encode				0.09561976045370102	\bcerebellum\b;\bcerebellum\b
+CNS	1506	UBERON:0002037 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	embryonic	encode				0.09561976045370102	\bcerebellum\b;\bcerebellum\b
+CNS	4699	usage_UBERON:0002037 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002037	cerebellum	tissue	embryonic	encode					\bcerebellum\b;\bcerebellum\b
+CNS	5066	usage_UBERON:0002037 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002037	cerebellum	tissue	embryonic	encode					\bcerebellum\b;\bcerebellum\b
+CNS	383	hCAGE UBERON:0001876	+	hCAGE	OutputType.CAGE	UBERON:0001876	amygdala	tissue		fantom				17.60308837890625	\bamygdala\b
+CNS	656	hCAGE UBERON:0001876	-	hCAGE	OutputType.CAGE	UBERON:0001876	amygdala	tissue		fantom				17.60308837890625	\bamygdala\b
+CNS	934	UBERON:0000955 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0000955	brain	tissue	embryonic	encode				0.3288920521736145	\bbrain\b;\bbrain\b
+CNS	2483	UBERON:0000955 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000955	brain	tissue	embryonic	encode		H3K27me3		0.8013409972190857	\bbrain\b;\bbrain\b
+CNS	2484	UBERON:0000955 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000955	brain	tissue	embryonic	encode		H3K36me3		0.7830002307891846	\bbrain\b;\bbrain\b
+CNS	2485	UBERON:0000955 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000955	brain	tissue	embryonic	encode		H3K4me1		0.8544619083404541	\bbrain\b;\bbrain\b
+CNS	2486	UBERON:0000955 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000955	brain	tissue	embryonic	encode		H3K4me3		1.043258786201477	\bbrain\b;\bbrain\b
+CNS	2487	UBERON:0000955 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000955	brain	tissue	embryonic	encode		H3K9me3		0.9674521684646606	\bbrain\b;\bbrain\b
+CNS	346	hCAGE UBERON:0000955	+	hCAGE	OutputType.CAGE	UBERON:0000955	brain	tissue		fantom				28.4322452545166	\bbrain\b;\bbrain\b
+CNS	619	hCAGE UBERON:0000955	-	hCAGE	OutputType.CAGE	UBERON:0000955	brain	tissue		fantom				28.4322452545166	\bbrain\b;\bbrain\b
+CNS	5375	junction_UBERON:0000955 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000955	brain	tissue							\bbrain\b;\bbrain\b
+CNS	964	UBERON:0002037 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002037	cerebellum	tissue	adult	encode				0.498566210269928	\bcerebellum\b;\bcerebellum\b
+CNS	2591	UBERON:0002037 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002037	cerebellum	tissue	adult	encode		H3K4me3		1.2195651531219482	\bcerebellum\b;\bcerebellum\b
+CNS	1236	UBERON:0002037 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	embryonic	encode				0.04635050147771835	\bcerebellum\b;\bcerebellum\b
+CNS	1507	UBERON:0002037 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	embryonic	encode				0.04635050147771835	\bcerebellum\b;\bcerebellum\b
+CNS	393	hCAGE UBERON:0002037	+	hCAGE	OutputType.CAGE	UBERON:0002037	cerebellum	tissue		fantom				12.268932342529297	\bcerebellum\b;\bcerebellum\b
+CNS	666	hCAGE UBERON:0002037	-	hCAGE	OutputType.CAGE	UBERON:0002037	cerebellum	tissue		fantom				12.268932342529297	\bcerebellum\b;\bcerebellum\b
+CNS	5433	junction_UBERON:0002037 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002037	cerebellum	tissue							\bcerebellum\b;\bcerebellum\b
+CNS	5434	junction_UBERON:0002037 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002037	cerebellum	tissue							\bcerebellum\b;\bcerebellum\b
+CNS	4700	usage_UBERON:0002037 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002037	cerebellum	tissue	embryonic	encode					\bcerebellum\b;\bcerebellum\b
+CNS	5067	usage_UBERON:0002037 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002037	cerebellum	tissue	embryonic	encode					\bcerebellum\b;\bcerebellum\b
+CNS	1231	UBERON:0001894 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001894	diencephalon	tissue	embryonic	encode				0.07281812280416489	\bdiencephalon\b
+CNS	1502	UBERON:0001894 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001894	diencephalon	tissue	embryonic	encode				0.07281812280416489	\bdiencephalon\b
+CNS	385	hCAGE UBERON:0001894	+	hCAGE	OutputType.CAGE	UBERON:0001894	diencephalon	tissue		fantom				68.8881607055664	\bdiencephalon\b
+CNS	658	hCAGE UBERON:0001894	-	hCAGE	OutputType.CAGE	UBERON:0001894	diencephalon	tissue		fantom				68.8881607055664	\bdiencephalon\b
+CNS	5426	junction_UBERON:0001894 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001894	diencephalon	tissue							\bdiencephalon\b
+CNS	4692	usage_UBERON:0001894 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001894	diencephalon	tissue	embryonic	encode					\bdiencephalon\b
+CNS	5059	usage_UBERON:0001894 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001894	diencephalon	tissue	embryonic	encode					\bdiencephalon\b
+CNS	959	UBERON:0001870 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001870	frontal cortex	tissue	adult	encode				0.9675334692001343	\bfrontal cortex\b
+CNS	1228	UBERON:0001870 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001870	frontal cortex	tissue	embryonic	encode				0.08561448007822037	\bfrontal cortex\b
+CNS	1499	UBERON:0001870 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001870	frontal cortex	tissue	embryonic	encode				0.08561448007822037	\bfrontal cortex\b
+CNS	377	hCAGE UBERON:0001870	+	hCAGE	OutputType.CAGE	UBERON:0001870	frontal cortex	tissue		fantom				25.70257568359375	\bfrontal cortex\b
+CNS	650	hCAGE UBERON:0001870	-	hCAGE	OutputType.CAGE	UBERON:0001870	frontal cortex	tissue		fantom				25.70257568359375	\bfrontal cortex\b
+CNS	5419	junction_UBERON:0001870 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001870	frontal cortex	tissue							\bfrontal cortex\b
+CNS	4685	usage_UBERON:0001870 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001870	frontal cortex	tissue	embryonic	encode					\bfrontal cortex\b
+CNS	5052	usage_UBERON:0001870 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001870	frontal cortex	tissue	embryonic	encode					\bfrontal cortex\b
+CNS	392	hCAGE UBERON:0002022	+	hCAGE	OutputType.CAGE	UBERON:0002022	insula	tissue		fantom				25.655611038208008	\binsula\b
+CNS	665	hCAGE UBERON:0002022	-	hCAGE	OutputType.CAGE	UBERON:0002022	insula	tissue		fantom				25.655611038208008	\binsula\b
+CNS	938	UBERON:0000988 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0000988	pons	tissue	adult	encode				0.4579213261604309	\bpons\b
+CNS	348	hCAGE UBERON:0000988	+	hCAGE	OutputType.CAGE	UBERON:0000988	pons	tissue		fantom				28.069860458374023	\bpons\b
+CNS	621	hCAGE UBERON:0000988	-	hCAGE	OutputType.CAGE	UBERON:0000988	pons	tissue		fantom				28.069860458374023	\bpons\b
+CNS	960	UBERON:0001874 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001874	putamen	tissue	adult	encode				1.0092743635177612	\bputamen\b
+CNS	381	hCAGE UBERON:0001874	+	hCAGE	OutputType.CAGE	UBERON:0001874	putamen	tissue		fantom				17.454984664916992	\bputamen\b
+CNS	654	hCAGE UBERON:0001874	-	hCAGE	OutputType.CAGE	UBERON:0001874	putamen	tissue		fantom				17.454984664916992	\bputamen\b
+Head	339	hCAGE UBERON:0000341	+	hCAGE	OutputType.CAGE	UBERON:0000341	throat	tissue		fantom				36.27021789550781	\bthroat\b
+Head	612	hCAGE UBERON:0000341	-	hCAGE	OutputType.CAGE	UBERON:0000341	throat	tissue		fantom				36.27021789550781	\bthroat\b
+Head	957	UBERON:0001723 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001723	tongue	tissue	embryonic	encode				0.461385577917099	\btongue\b;\btongue\b
+Head	1227	UBERON:0001723 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001723	tongue	tissue	embryonic	encode				0.13978645205497742	\btongue\b;\btongue\b
+Head	1498	UBERON:0001723 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001723	tongue	tissue	embryonic	encode				0.13978645205497742	\btongue\b;\btongue\b
+Head	373	hCAGE UBERON:0001723	+	hCAGE	OutputType.CAGE	UBERON:0001723	tongue	tissue		fantom				45.90983963012695	\btongue\b;\btongue\b
+Head	646	hCAGE UBERON:0001723	-	hCAGE	OutputType.CAGE	UBERON:0001723	tongue	tissue		fantom				45.90983963012695	\btongue\b;\btongue\b
+Head	5416	junction_UBERON:0001723 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001723	tongue	tissue							\btongue\b;\btongue\b
+Head	4682	usage_UBERON:0001723 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001723	tongue	tissue	embryonic	encode					\btongue\b;\btongue\b
+Head	5049	usage_UBERON:0001723 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001723	tongue	tissue	embryonic	encode					\btongue\b;\btongue\b
+Head	421	hCAGE UBERON:0002372	+	hCAGE	OutputType.CAGE	UBERON:0002372	tonsil	tissue		fantom				45.03621292114258	\btonsil\b
+Head	694	hCAGE UBERON:0002372	-	hCAGE	OutputType.CAGE	UBERON:0002372	tonsil	tissue		fantom				45.03621292114258	\btonsil\b
+Kidney	1624	UBERON:0001225 gtex Kidney_Cortex polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001225	cortex of kidney	tissue	adult	gtex	Kidney_Cortex			0.06602127104997635	\bkidney\b;\bkidney\b
+Kidney	4666	usage_UBERON:0001225 gtex Kidney_Cortex polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001225	cortex of kidney	tissue	adult	gtex	Kidney_Cortex				\bkidney\b;\bkidney\b
+Kidney	5033	usage_UBERON:0001225 gtex Kidney_Cortex polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001225	cortex of kidney	tissue	adult	gtex	Kidney_Cortex				\bkidney\b;\bkidney\b
+Kidney	1626	UBERON:0001293 gtex Kidney_Medulla polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001293	outer medulla of kidney	tissue	adult	gtex	Kidney_Medulla			0.18485306203365326	\bkidney\b;\bkidney\b
+Kidney	4672	usage_UBERON:0001293 gtex Kidney_Medulla polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001293	outer medulla of kidney	tissue	adult	gtex	Kidney_Medulla				\bkidney\b;\bkidney\b
+Kidney	5039	usage_UBERON:0001293 gtex Kidney_Medulla polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001293	outer medulla of kidney	tissue	adult	gtex	Kidney_Medulla				\bkidney\b;\bkidney\b
+Kidney	5400	junction_UBERON:0001225 gtex Kidney_Cortex polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001225	cortex of kidney	tissue			Kidney_Cortex				\bkidney\b;\bkidney\b
+Kidney	5406	junction_UBERON:0001293 gtex Kidney_Medulla polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001293	outer medulla of kidney	tissue			Kidney_Medulla				\bkidney\b;\bkidney\b
+Kidney	1254	UBERON:0002113 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	adult	encode				0.5964622497558594	\bkidney\b;\bkidney\b
+Kidney	1525	UBERON:0002113 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	adult	encode				0.5964622497558594	\bkidney\b;\bkidney\b
+Kidney	1647	UBERON:0002113 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	embryonic	encode				0.22629043459892273	\bkidney\b;\bkidney\b
+Kidney	4721	usage_UBERON:0002113 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002113	kidney	tissue	adult	encode					\bkidney\b;\bkidney\b
+Kidney	5088	usage_UBERON:0002113 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002113	kidney	tissue	adult	encode					\bkidney\b;\bkidney\b
+Kidney	1662	UBERON:0004538 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0004538	left kidney	tissue	embryonic	encode				0.3590563237667084	\bkidney\b;\bkidney\b
+Kidney	4748	usage_UBERON:0004538 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004538	left kidney	tissue	embryonic	encode					\bkidney\b;\bkidney\b
+Kidney	5115	usage_UBERON:0004538 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004538	left kidney	tissue	embryonic	encode					\bkidney\b;\bkidney\b
+Kidney	1682	UBERON:0018117 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0018117	left renal cortex interstitium	tissue	embryonic	encode				0.21519021689891815	\brenal\b
+Kidney	4785	usage_UBERON:0018117 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0018117	left renal cortex interstitium	tissue	embryonic	encode					\brenal\b
+Kidney	5152	usage_UBERON:0018117 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0018117	left renal cortex interstitium	tissue	embryonic	encode					\brenal\b
+Kidney	1680	UBERON:0018115 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0018115	left renal pelvis	tissue	embryonic	encode				0.2682223618030548	\brenal\b
+Kidney	4783	usage_UBERON:0018115 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0018115	left renal pelvis	tissue	embryonic	encode					\brenal\b
+Kidney	5150	usage_UBERON:0018115 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0018115	left renal pelvis	tissue	embryonic	encode					\brenal\b
+Kidney	1665	UBERON:0005270 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0005270	renal cortex interstitium	tissue	embryonic	encode				0.273677796125412	\brenal\b
+Kidney	4755	usage_UBERON:0005270 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0005270	renal cortex interstitium	tissue	embryonic	encode					\brenal\b
+Kidney	5122	usage_UBERON:0005270 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0005270	renal cortex interstitium	tissue	embryonic	encode					\brenal\b
+Kidney	1623	UBERON:0001224 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001224	renal pelvis	tissue	embryonic	encode				0.26900357007980347	\brenal\b
+Kidney	4665	usage_UBERON:0001224 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001224	renal pelvis	tissue	embryonic	encode					\brenal\b
+Kidney	5032	usage_UBERON:0001224 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001224	renal pelvis	tissue	embryonic	encode					\brenal\b
+Kidney	1683	UBERON:0018118 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0018118	right renal cortex interstitium	tissue	embryonic	encode				0.3656761348247528	\brenal\b
+Kidney	4786	usage_UBERON:0018118 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0018118	right renal cortex interstitium	tissue	embryonic	encode					\brenal\b
+Kidney	5153	usage_UBERON:0018118 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0018118	right renal cortex interstitium	tissue	embryonic	encode					\brenal\b
+Kidney	1681	UBERON:0018116 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0018116	right renal pelvis	tissue	embryonic	encode				0.25852155685424805	\brenal\b
+Kidney	4784	usage_UBERON:0018116 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0018116	right renal pelvis	tissue	embryonic	encode					\brenal\b
+Kidney	5151	usage_UBERON:0018116 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0018116	right renal pelvis	tissue	embryonic	encode					\brenal\b
+Kidney	146	UBERON:0002113 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002113	kidney	tissue	adult	encode				0.40251538157463074	\bkidney\b;\bkidney\b
+Kidney	975	UBERON:0002113 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002113	kidney	tissue	adult	encode				1.0922431945800781	\bkidney\b;\bkidney\b
+Kidney	2641	UBERON:0002113 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002113	kidney	tissue	adult	encode		H3K27ac		0.9552195072174072	\bkidney\b;\bkidney\b
+Kidney	2642	UBERON:0002113 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002113	kidney	tissue	adult	encode		H3K36me3		0.798854410648346	\bkidney\b;\bkidney\b
+Kidney	2643	UBERON:0002113 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002113	kidney	tissue	adult	encode		H3K4me1		0.8005074858665466	\bkidney\b;\bkidney\b
+Kidney	2644	UBERON:0002113 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002113	kidney	tissue	adult	encode		H3K4me3		0.7985708117485046	\bkidney\b;\bkidney\b
+Kidney	2645	UBERON:0002113 Histone ChIP-seq H3K9ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002113	kidney	tissue	adult	encode		H3K9ac		0.8986935615539551	\bkidney\b;\bkidney\b
+Kidney	1255	UBERON:0002113 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	adult	encode				0.13756509125232697	\bkidney\b;\bkidney\b
+Kidney	1526	UBERON:0002113 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	adult	encode				0.13756509125232697	\bkidney\b;\bkidney\b
+Kidney	403	hCAGE UBERON:0002113	+	hCAGE	OutputType.CAGE	UBERON:0002113	kidney	tissue		fantom				23.436513900756836	\bkidney\b;\bkidney\b
+Kidney	676	hCAGE UBERON:0002113	-	hCAGE	OutputType.CAGE	UBERON:0002113	kidney	tissue		fantom				23.436513900756836	\bkidney\b;\bkidney\b
+Kidney	5455	junction_UBERON:0002113 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002113	kidney	tissue							\bkidney\b;\bkidney\b
+Kidney	5456	junction_UBERON:0002113 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002113	kidney	tissue							\bkidney\b;\bkidney\b
+Kidney	4722	usage_UBERON:0002113 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002113	kidney	tissue	adult	encode					\bkidney\b;\bkidney\b
+Kidney	5089	usage_UBERON:0002113 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002113	kidney	tissue	adult	encode					\bkidney\b;\bkidney\b
+Kidney	993	UBERON:0004538 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0004538	left kidney	tissue	embryonic	encode				2.1672964096069336	\bkidney\b;\bkidney\b
+Kidney	5482	junction_UBERON:0004538 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0004538	left kidney	tissue							\bkidney\b;\bkidney\b
+Kidney	1011	UBERON:0018117 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0018117	left renal cortex interstitium	tissue	embryonic	encode				0.9994888305664062	\brenal\b
+Kidney	5519	junction_UBERON:0018117 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0018117	left renal cortex interstitium	tissue							\brenal\b
+Kidney	1009	UBERON:0018115 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0018115	left renal pelvis	tissue	embryonic	encode				1.1233245134353638	\brenal\b
+Kidney	5517	junction_UBERON:0018115 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0018115	left renal pelvis	tissue							\brenal\b
+Kidney	1190	UBERON:0000081 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000081	metanephros	tissue	embryonic	encode				0.06954433768987656	\bmetanephros\b
+Kidney	1461	UBERON:0000081 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000081	metanephros	tissue	embryonic	encode				0.06954433768987656	\bmetanephros\b
+Kidney	5360	junction_UBERON:0000081 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000081	metanephros	tissue							\bmetanephros\b
+Kidney	4626	usage_UBERON:0000081 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000081	metanephros	tissue	embryonic	encode					\bmetanephros\b
+Kidney	4993	usage_UBERON:0000081 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000081	metanephros	tissue	embryonic	encode					\bmetanephros\b
+Kidney	997	UBERON:0005270 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0005270	renal cortex interstitium	tissue	embryonic	encode				0.4723626971244812	\brenal\b
+Kidney	5489	junction_UBERON:0005270 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0005270	renal cortex interstitium	tissue							\brenal\b
+Kidney	948	UBERON:0001224 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001224	renal pelvis	tissue	embryonic	encode				2.1799817085266113	\brenal\b
+Kidney	5399	junction_UBERON:0001224 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001224	renal pelvis	tissue							\brenal\b
+Kidney	994	UBERON:0004539 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0004539	right kidney	tissue	embryonic	encode				1.0729928016662598	\bkidney\b;\bkidney\b
+Kidney	1012	UBERON:0018118 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0018118	right renal cortex interstitium	tissue	embryonic	encode				1.2882170677185059	\brenal\b
+Kidney	5520	junction_UBERON:0018118 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0018118	right renal cortex interstitium	tissue							\brenal\b
+Kidney	1010	UBERON:0018116 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0018116	right renal pelvis	tissue	embryonic	encode				1.0260438919067383	\brenal\b
+Kidney	5518	junction_UBERON:0018116 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0018116	right renal pelvis	tissue							\brenal\b
+Kidney	123	UBERON:0000056 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0000056	ureter	tissue	adult	encode				0.48642194271087646	\bureter\b
+Kidney	927	UBERON:0000056 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0000056	ureter	tissue	adult	encode				0.7453031539916992	\bureter\b
+Kidney	1189	UBERON:0000056 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000056	ureter	tissue	adult	encode				0.1433965563774109	\bureter\b
+Kidney	1460	UBERON:0000056 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000056	ureter	tissue	adult	encode				0.1433965563774109	\bureter\b
+Kidney	5359	junction_UBERON:0000056 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000056	ureter	tissue							\bureter\b
+Kidney	4625	usage_UBERON:0000056 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000056	ureter	tissue	adult	encode					\bureter\b
+Kidney	4992	usage_UBERON:0000056 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000056	ureter	tissue	adult	encode					\bureter\b
+Myeloid	1679	UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0013756	venous blood	tissue	adult	gtex	Whole_Blood			0.05588344484567642	\bblood\b;\bblood\b
+Myeloid	4781	usage_UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0013756	venous blood	tissue	adult	gtex	Whole_Blood				\bblood\b;\bblood\b
+Myeloid	5148	usage_UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0013756	venous blood	tissue	adult	gtex	Whole_Blood				\bblood\b;\bblood\b
+Myeloid	5515	junction_UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0013756	venous blood	tissue			Whole_Blood				\bblood\b;\bblood\b
+Myeloid	420	hCAGE UBERON:0002371	+	hCAGE	OutputType.CAGE	UBERON:0002371	bone marrow	tissue		fantom				23.103410720825195	\bbone marrow\b
+Myeloid	693	hCAGE UBERON:0002371	-	hCAGE	OutputType.CAGE	UBERON:0002371	bone marrow	tissue		fantom				23.103410720825195	\bbone marrow\b
+Liver	1618	UBERON:0001114 gtex Liver polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001114	right lobe of liver	tissue	adult	gtex	Liver			0.06319103389978409	\bliver\b;\bliver\b
+Liver	4652	usage_UBERON:0001114 gtex Liver polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001114	right lobe of liver	tissue	adult	gtex	Liver				\bliver\b;\bliver\b
+Liver	5019	usage_UBERON:0001114 gtex Liver polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001114	right lobe of liver	tissue	adult	gtex	Liver				\bliver\b;\bliver\b
+Liver	5386	junction_UBERON:0001114 gtex Liver polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001114	right lobe of liver	tissue			Liver				\bliver\b;\bliver\b
+Liver	1251	UBERON:0002107 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	child	encode				0.37201911211013794	\bliver\b;\bliver\b
+Liver	1522	UBERON:0002107 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	child	encode				0.37201911211013794	\bliver\b;\bliver\b
+Liver	1645	UBERON:0002107 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	child,adult	encode				0.23851369321346283	\bliver\b;\bliver\b
+Liver	4718	usage_UBERON:0002107 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002107	liver	tissue	child	encode					\bliver\b;\bliver\b
+Liver	5085	usage_UBERON:0002107 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002107	liver	tissue	child	encode					\bliver\b;\bliver\b
+Liver	130	UBERON:0001115 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0001115	left lobe of liver	tissue	adult	encode				0.3790719211101532	\bliver\b;\bliver\b
+Liver	943	UBERON:0001115 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001115	left lobe of liver	tissue	adult	encode				0.6450967192649841	\bliver\b;\bliver\b
+Liver	1211	UBERON:0001115 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001115	left lobe of liver	tissue	adult	encode				0.2238539606332779	\bliver\b;\bliver\b
+Liver	1482	UBERON:0001115 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001115	left lobe of liver	tissue	adult	encode				0.2238539606332779	\bliver\b;\bliver\b
+Liver	5388	junction_UBERON:0001115 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001115	left lobe of liver	tissue							\bliver\b;\bliver\b
+Liver	4654	usage_UBERON:0001115 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001115	left lobe of liver	tissue	adult	encode					\bliver\b;\bliver\b
+Liver	5021	usage_UBERON:0001115 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001115	left lobe of liver	tissue	adult	encode					\bliver\b;\bliver\b
+Liver	145	UBERON:0002107 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002107	liver	tissue	adult	encode				0.3416995704174042	\bliver\b;\bliver\b
+Liver	973	UBERON:0002107 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002107	liver	tissue	embryonic	encode				0.7895574569702148	\bliver\b;\bliver\b
+Liver	2629	UBERON:0002107 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002107	liver	tissue	adult	encode		H3K27ac		0.9069214463233948	\bliver\b;\bliver\b
+Liver	2630	UBERON:0002107 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002107	liver	tissue	adult	encode		H3K36me3		0.8101385235786438	\bliver\b;\bliver\b
+Liver	2631	UBERON:0002107 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002107	liver	tissue	adult	encode		H3K4me1		0.7480568885803223	\bliver\b;\bliver\b
+Liver	2632	UBERON:0002107 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002107	liver	tissue	adult	encode		H3K4me3		0.7054669857025146	\bliver\b;\bliver\b
+Liver	2633	UBERON:0002107 Histone ChIP-seq H3K9ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002107	liver	tissue	adult	encode		H3K9ac		0.8565387725830078	\bliver\b;\bliver\b
+Liver	2634	UBERON:0002107 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002107	liver	tissue	adult	encode		H3K9me3		1.423638939857483	\bliver\b;\bliver\b
+Liver	4362	UBERON:0002107 TF ChIP-seq ATF3	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			ATF3	0.8291417360305786	\bliver\b;\bliver\b
+Liver	4363	UBERON:0002107 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	child,adult	encode			CTCF	0.9286914467811584	\bliver\b;\bliver\b
+Liver	4364	UBERON:0002107 TF ChIP-seq EGR1	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			EGR1	0.9185616374015808	\bliver\b;\bliver\b
+Liver	4365	UBERON:0002107 TF ChIP-seq FOXA1	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			FOXA1	0.9144059419631958	\bliver\b;\bliver\b
+Liver	4366	UBERON:0002107 TF ChIP-seq FOXA2	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			FOXA2	0.8166743516921997	\bliver\b;\bliver\b
+Liver	4367	UBERON:0002107 TF ChIP-seq GABPA	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			GABPA	0.7945700287818909	\bliver\b;\bliver\b
+Liver	4368	UBERON:0002107 TF ChIP-seq HNF4A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			HNF4A	0.7481765151023865	\bliver\b;\bliver\b
+Liver	4369	UBERON:0002107 TF ChIP-seq HNF4G	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	child	encode			HNF4G	0.8060025572776794	\bliver\b;\bliver\b
+Liver	4370	UBERON:0002107 TF ChIP-seq JUND	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			JUND	0.8162035346031189	\bliver\b;\bliver\b
+Liver	4371	UBERON:0002107 TF ChIP-seq MAX	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			MAX	0.7345631718635559	\bliver\b;\bliver\b
+Liver	4372	UBERON:0002107 TF ChIP-seq NR2F2	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			NR2F2	0.843869686126709	\bliver\b;\bliver\b
+Liver	4373	UBERON:0002107 TF ChIP-seq RAD21	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			RAD21	0.6999995112419128	\bliver\b;\bliver\b
+Liver	4374	UBERON:0002107 TF ChIP-seq REST	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			REST	0.8216601610183716	\bliver\b;\bliver\b
+Liver	4375	UBERON:0002107 TF ChIP-seq RXRA	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			RXRA	0.723956286907196	\bliver\b;\bliver\b
+Liver	4376	UBERON:0002107 TF ChIP-seq SP1	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			SP1	0.7119137644767761	\bliver\b;\bliver\b
+Liver	4377	UBERON:0002107 TF ChIP-seq TAF1	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	child	encode			TAF1	0.8605258464813232	\bliver\b;\bliver\b
+Liver	4378	UBERON:0002107 TF ChIP-seq YY1	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			YY1	0.7411702275276184	\bliver\b;\bliver\b
+Liver	4379	UBERON:0002107 TF ChIP-seq ZBTB33	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002107	liver	tissue	adult	encode			ZBTB33	0.781875729560852	\bliver\b;\bliver\b
+Liver	1252	UBERON:0002107 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	embryonic	encode				0.1001405194401741	\bliver\b;\bliver\b
+Liver	1523	UBERON:0002107 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	embryonic	encode				0.1001405194401741	\bliver\b;\bliver\b
+Liver	400	hCAGE UBERON:0002107	+	hCAGE	OutputType.CAGE	UBERON:0002107	liver	tissue		fantom				63.86726379394531	\bliver\b;\bliver\b
+Liver	673	hCAGE UBERON:0002107	-	hCAGE	OutputType.CAGE	UBERON:0002107	liver	tissue		fantom				63.86726379394531	\bliver\b;\bliver\b
+Liver	5452	junction_UBERON:0002107 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002107	liver	tissue							\bliver\b;\bliver\b
+Liver	5453	junction_UBERON:0002107 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002107	liver	tissue							\bliver\b;\bliver\b
+Liver	4719	usage_UBERON:0002107 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002107	liver	tissue	embryonic	encode					\bliver\b;\bliver\b
+Liver	5086	usage_UBERON:0002107 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002107	liver	tissue	embryonic	encode					\bliver\b;\bliver\b
+Liver	129	UBERON:0001114 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0001114	right lobe of liver	tissue	adult	encode				0.5050563216209412	\bliver\b;\bliver\b
+Liver	942	UBERON:0001114 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001114	right lobe of liver	tissue	adult	encode				0.47963228821754456	\bliver\b;\bliver\b
+Liver	2507	UBERON:0001114 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001114	right lobe of liver	tissue	adult	encode		H3K27ac		0.7784299850463867	\bliver\b;\bliver\b
+Liver	2508	UBERON:0001114 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001114	right lobe of liver	tissue	adult	encode		H3K36me3		0.8362173438072205	\bliver\b;\bliver\b
+Liver	2509	UBERON:0001114 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001114	right lobe of liver	tissue	adult	encode		H3K4me1		0.8233218193054199	\bliver\b;\bliver\b
+Liver	2510	UBERON:0001114 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001114	right lobe of liver	tissue	adult	encode		H3K4me3		0.7803559899330139	\bliver\b;\bliver\b
+Liver	4331	UBERON:0001114 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001114	right lobe of liver	tissue	adult	encode			CTCF	0.9131947159767151	\bliver\b;\bliver\b
+Liver	4332	UBERON:0001114 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001114	right lobe of liver	tissue	adult	encode			POLR2A	0.8642057776451111	\bliver\b;\bliver\b
+Liver	1210	UBERON:0001114 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001114	right lobe of liver	tissue	adult	encode				0.1526584029197693	\bliver\b;\bliver\b
+Liver	1481	UBERON:0001114 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001114	right lobe of liver	tissue	adult	encode				0.1526584029197693	\bliver\b;\bliver\b
+Liver	5387	junction_UBERON:0001114 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001114	right lobe of liver	tissue							\bliver\b;\bliver\b
+Liver	4653	usage_UBERON:0001114 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001114	right lobe of liver	tissue	adult	encode					\bliver\b;\bliver\b
+Liver	5020	usage_UBERON:0001114 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001114	right lobe of liver	tissue	adult	encode					\bliver\b;\bliver\b
+Lung	1673	UBERON:0008952 gtex Lung polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0008952	upper lobe of left lung	tissue	adult	gtex	Lung			0.04629707708954811	\blung\b;\blung\b
+Lung	4769	usage_UBERON:0008952 gtex Lung polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008952	upper lobe of left lung	tissue	adult	gtex	Lung				\blung\b;\blung\b
+Lung	5136	usage_UBERON:0008952 gtex Lung polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008952	upper lobe of left lung	tissue	adult	gtex	Lung				\blung\b;\blung\b
+Lung	5503	junction_UBERON:0008952 gtex Lung polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0008952	upper lobe of left lung	tissue			Lung				\blung\b;\blung\b
+Lung	1649	UBERON:0002168 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002168	left lung	tissue	embryonic	encode				0.17341721057891846	\blung\b;\blung\b
+Lung	4724	usage_UBERON:0002168 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002168	left lung	tissue	embryonic	encode					\blung\b;\blung\b
+Lung	5091	usage_UBERON:0002168 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002168	left lung	tissue	embryonic	encode					\blung\b;\blung\b
+Lung	1238	UBERON:0002048 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002048	lung	tissue	adult	encode				0.11917171627283096	\blung\b;\blung\b
+Lung	1509	UBERON:0002048 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002048	lung	tissue	adult	encode				0.11917171627283096	\blung\b;\blung\b
+Lung	4704	usage_UBERON:0002048 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002048	lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	5071	usage_UBERON:0002048 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002048	lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	1648	UBERON:0002167 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002167	right lung	tissue	embryonic	encode				0.1865345537662506	\blung\b;\blung\b
+Lung	4723	usage_UBERON:0002167 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002167	right lung	tissue	embryonic	encode					\blung\b;\blung\b
+Lung	5090	usage_UBERON:0002167 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002167	right lung	tissue	embryonic	encode					\blung\b;\blung\b
+Lung	147	UBERON:0002168 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002168	left lung	tissue	child	encode				0.4284360408782959	\blung\b;\blung\b
+Lung	978	UBERON:0002168 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002168	left lung	tissue	adult	encode				0.9140506386756897	\blung\b;\blung\b
+Lung	2646	UBERON:0002168 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002168	left lung	tissue	adult	encode		H3K27ac		0.8949621319770813	\blung\b;\blung\b
+Lung	2647	UBERON:0002168 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002168	left lung	tissue	adult	encode		H3K27me3		0.8752104640007019	\blung\b;\blung\b
+Lung	2648	UBERON:0002168 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002168	left lung	tissue	adult	encode		H3K36me3		0.8681212663650513	\blung\b;\blung\b
+Lung	2649	UBERON:0002168 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002168	left lung	tissue	adult	encode		H3K4me1		0.9048176407814026	\blung\b;\blung\b
+Lung	2650	UBERON:0002168 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002168	left lung	tissue	adult	encode		H3K4me3		0.9501997828483582	\blung\b;\blung\b
+Lung	2651	UBERON:0002168 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002168	left lung	tissue	adult	encode		H3K9me3		1.1099082231521606	\blung\b;\blung\b
+Lung	4380	UBERON:0002168 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002168	left lung	tissue	adult	encode			CTCF	0.8585008978843689	\blung\b;\blung\b
+Lung	1256	UBERON:0002168 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002168	left lung	tissue	adult	encode				0.15085317194461823	\blung\b;\blung\b
+Lung	1527	UBERON:0002168 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002168	left lung	tissue	adult	encode				0.15085317194461823	\blung\b;\blung\b
+Lung	5458	junction_UBERON:0002168 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002168	left lung	tissue							\blung\b;\blung\b
+Lung	5459	junction_UBERON:0002168 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002168	left lung	tissue							\blung\b;\blung\b
+Lung	4725	usage_UBERON:0002168 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002168	left lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	5092	usage_UBERON:0002168 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002168	left lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	162	UBERON:0008953 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0008953	lower lobe of left lung	tissue	adult	encode				0.3122468590736389	\blung\b;\blung\b
+Lung	1003	UBERON:0008953 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0008953	lower lobe of left lung	tissue	adult	encode				0.6039119958877563	\blung\b;\blung\b
+Lung	2758	UBERON:0008953 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008953	lower lobe of left lung	tissue	adult	encode		H3K27ac		0.8131684064865112	\blung\b;\blung\b
+Lung	2759	UBERON:0008953 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008953	lower lobe of left lung	tissue	adult	encode		H3K27me3		0.8400024771690369	\blung\b;\blung\b
+Lung	2760	UBERON:0008953 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008953	lower lobe of left lung	tissue	adult	encode		H3K36me3		0.8133916854858398	\blung\b;\blung\b
+Lung	2761	UBERON:0008953 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008953	lower lobe of left lung	tissue	adult	encode		H3K4me1		0.8141807317733765	\blung\b;\blung\b
+Lung	2762	UBERON:0008953 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008953	lower lobe of left lung	tissue	adult	encode		H3K4me3		0.8252076506614685	\blung\b;\blung\b
+Lung	2763	UBERON:0008953 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008953	lower lobe of left lung	tissue	adult	encode		H3K9me3		0.8201392889022827	\blung\b;\blung\b
+Lung	4410	UBERON:0008953 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0008953	lower lobe of left lung	tissue	adult	encode			CTCF	0.8122490644454956	\blung\b;\blung\b
+Lung	1281	UBERON:0008953 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008953	lower lobe of left lung	tissue	adult	encode				0.10869968682527542	\blung\b;\blung\b
+Lung	1552	UBERON:0008953 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008953	lower lobe of left lung	tissue	adult	encode				0.10869968682527542	\blung\b;\blung\b
+Lung	5505	junction_UBERON:0008953 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0008953	lower lobe of left lung	tissue							\blung\b;\blung\b
+Lung	4771	usage_UBERON:0008953 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008953	lower lobe of left lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	5138	usage_UBERON:0008953 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008953	lower lobe of left lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	149	UBERON:0002171 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002171	lower lobe of right lung	tissue	adult	encode				0.2252897024154663	\blung\b;\blung\b
+Lung	980	UBERON:0002171 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002171	lower lobe of right lung	tissue	adult	encode				1.0217218399047852	\blung\b;\blung\b
+Lung	2656	UBERON:0002171 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002171	lower lobe of right lung	tissue	adult	encode		H3K27ac		0.9444779753684998	\blung\b;\blung\b
+Lung	2657	UBERON:0002171 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002171	lower lobe of right lung	tissue	adult	encode		H3K27me3		0.9000256061553955	\blung\b;\blung\b
+Lung	2658	UBERON:0002171 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002171	lower lobe of right lung	tissue	adult	encode		H3K36me3		0.8784345984458923	\blung\b;\blung\b
+Lung	2659	UBERON:0002171 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002171	lower lobe of right lung	tissue	adult	encode		H3K4me1		0.8521840572357178	\blung\b;\blung\b
+Lung	2660	UBERON:0002171 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002171	lower lobe of right lung	tissue	adult	encode		H3K4me3		0.9574486017227173	\blung\b;\blung\b
+Lung	4382	UBERON:0002171 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002171	lower lobe of right lung	tissue	adult	encode			CTCF	0.9048076272010803	\blung\b;\blung\b
+Lung	1258	UBERON:0002171 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002171	lower lobe of right lung	tissue	adult	encode				0.16713519394397736	\blung\b;\blung\b
+Lung	1529	UBERON:0002171 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002171	lower lobe of right lung	tissue	adult	encode				0.16713519394397736	\blung\b;\blung\b
+Lung	411	hCAGE UBERON:0002171	+	hCAGE	OutputType.CAGE	UBERON:0002171	lower lobe of right lung	tissue		fantom				65.2254638671875	\blung\b;\blung\b
+Lung	684	hCAGE UBERON:0002171	-	hCAGE	OutputType.CAGE	UBERON:0002171	lower lobe of right lung	tissue		fantom				65.2254638671875	\blung\b;\blung\b
+Lung	5461	junction_UBERON:0002171 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002171	lower lobe of right lung	tissue							\blung\b;\blung\b
+Lung	4727	usage_UBERON:0002171 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002171	lower lobe of right lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	5094	usage_UBERON:0002171 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002171	lower lobe of right lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	138	UBERON:0002048 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002048	lung	tissue	adult	encode				2.9806368350982666	\blung\b;\blung\b
+Lung	966	UBERON:0002048 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002048	lung	tissue	embryonic	encode				0.4275049567222595	\blung\b;\blung\b
+Lung	2601	UBERON:0002048 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002048	lung	tissue	adult	encode		H3K27ac		1.4589347839355469	\blung\b;\blung\b
+Lung	2602	UBERON:0002048 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002048	lung	tissue	embryonic	encode		H3K27me3		0.9830350279808044	\blung\b;\blung\b
+Lung	2603	UBERON:0002048 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002048	lung	tissue	adult	encode		H3K36me3		1.7142006158828735	\blung\b;\blung\b
+Lung	2604	UBERON:0002048 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002048	lung	tissue	adult	encode		H3K4me1		2.136195182800293	\blung\b;\blung\b
+Lung	2605	UBERON:0002048 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002048	lung	tissue	adult	encode		H3K4me3		1.4228606224060059	\blung\b;\blung\b
+Lung	2606	UBERON:0002048 Histone ChIP-seq H3K9ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002048	lung	tissue	embryonic	encode		H3K9ac		1.1020851135253906	\blung\b;\blung\b
+Lung	2607	UBERON:0002048 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002048	lung	tissue	adult	encode		H3K9me3		1.596697211265564	\blung\b;\blung\b
+Lung	1239	UBERON:0002048 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002048	lung	tissue	embryonic	encode				0.08134463429450989	\blung\b;\blung\b
+Lung	1510	UBERON:0002048 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002048	lung	tissue	embryonic	encode				0.08134463429450989	\blung\b;\blung\b
+Lung	396	hCAGE UBERON:0002048	+	hCAGE	OutputType.CAGE	UBERON:0002048	lung	tissue		fantom				30.655853271484375	\blung\b;\blung\b
+Lung	669	hCAGE UBERON:0002048	-	hCAGE	OutputType.CAGE	UBERON:0002048	lung	tissue		fantom				30.655853271484375	\blung\b;\blung\b
+Lung	5438	junction_UBERON:0002048 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002048	lung	tissue							\blung\b;\blung\b
+Lung	5439	junction_UBERON:0002048 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002048	lung	tissue							\blung\b;\blung\b
+Lung	4705	usage_UBERON:0002048 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002048	lung	tissue	embryonic	encode					\blung\b;\blung\b
+Lung	5072	usage_UBERON:0002048 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002048	lung	tissue	embryonic	encode					\blung\b;\blung\b
+Lung	977	UBERON:0002167 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002167	right lung	tissue	embryonic	encode				1.2309776544570923	\blung\b;\blung\b
+Lung	5457	junction_UBERON:0002167 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002167	right lung	tissue							\blung\b;\blung\b
+Lung	428	hCAGE UBERON:0003126	+	hCAGE	OutputType.CAGE	UBERON:0003126	trachea	tissue		fantom				33.11235046386719	\btrachea\b
+Lung	701	hCAGE UBERON:0003126	-	hCAGE	OutputType.CAGE	UBERON:0003126	trachea	tissue		fantom				33.11235046386719	\btrachea\b
+Lung	161	UBERON:0008952 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0008952	upper lobe of left lung	tissue	adult	encode				0.31991297006607056	\blung\b;\blung\b
+Lung	1002	UBERON:0008952 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0008952	upper lobe of left lung	tissue	adult	encode				0.691214382648468	\blung\b;\blung\b
+Lung	2754	UBERON:0008952 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008952	upper lobe of left lung	tissue	adult	encode		H3K27ac		0.8779808282852173	\blung\b;\blung\b
+Lung	2755	UBERON:0008952 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008952	upper lobe of left lung	tissue	adult	encode		H3K36me3		0.8125616908073425	\blung\b;\blung\b
+Lung	2756	UBERON:0008952 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008952	upper lobe of left lung	tissue	adult	encode		H3K4me1		0.8664360642433167	\blung\b;\blung\b
+Lung	2757	UBERON:0008952 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008952	upper lobe of left lung	tissue	adult	encode		H3K4me3		0.8021848201751709	\blung\b;\blung\b
+Lung	4406	UBERON:0008952 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0008952	upper lobe of left lung	tissue	adult	encode			CTCF	0.7110802531242371	\blung\b;\blung\b
+Lung	4407	UBERON:0008952 TF ChIP-seq EP300	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0008952	upper lobe of left lung	tissue	adult	encode			EP300	0.7667781710624695	\blung\b;\blung\b
+Lung	4408	UBERON:0008952 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0008952	upper lobe of left lung	tissue	adult	encode			POLR2A	0.7265744805335999	\blung\b;\blung\b
+Lung	4409	UBERON:0008952 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0008952	upper lobe of left lung	tissue	adult	encode			POLR2AphosphoS5	0.8310160636901855	\blung\b;\blung\b
+Lung	1280	UBERON:0008952 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008952	upper lobe of left lung	tissue	adult	encode				0.0914291962981224	\blung\b;\blung\b
+Lung	1551	UBERON:0008952 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008952	upper lobe of left lung	tissue	adult	encode				0.0914291962981224	\blung\b;\blung\b
+Lung	5504	junction_UBERON:0008952 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0008952	upper lobe of left lung	tissue							\blung\b;\blung\b
+Lung	4770	usage_UBERON:0008952 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008952	upper lobe of left lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	5137	usage_UBERON:0008952 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008952	upper lobe of left lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	148	UBERON:0002170 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002170	upper lobe of right lung	tissue	adult	encode				0.2896386384963989	\blung\b;\blung\b
+Lung	979	UBERON:0002170 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002170	upper lobe of right lung	tissue	adult	encode				0.863777756690979	\blung\b;\blung\b
+Lung	2652	UBERON:0002170 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002170	upper lobe of right lung	tissue	adult	encode		H3K27ac		0.8909234404563904	\blung\b;\blung\b
+Lung	2653	UBERON:0002170 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002170	upper lobe of right lung	tissue	adult	encode		H3K36me3		0.8416327834129333	\blung\b;\blung\b
+Lung	2654	UBERON:0002170 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002170	upper lobe of right lung	tissue	adult	encode		H3K4me1		0.8523540496826172	\blung\b;\blung\b
+Lung	2655	UBERON:0002170 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002170	upper lobe of right lung	tissue	adult	encode		H3K4me3		0.9516236186027527	\blung\b;\blung\b
+Lung	4381	UBERON:0002170 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002170	upper lobe of right lung	tissue	adult	encode			CTCF	0.872957706451416	\blung\b;\blung\b
+Lung	1257	UBERON:0002170 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002170	upper lobe of right lung	tissue	adult	encode				0.18277625739574432	\blung\b;\blung\b
+Lung	1528	UBERON:0002170 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002170	upper lobe of right lung	tissue	adult	encode				0.18277625739574432	\blung\b;\blung\b
+Lung	5460	junction_UBERON:0002170 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002170	upper lobe of right lung	tissue							\blung\b;\blung\b
+Lung	4726	usage_UBERON:0002170 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002170	upper lobe of right lung	tissue	adult	encode					\blung\b;\blung\b
+Lung	5093	usage_UBERON:0002170 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002170	upper lobe of right lung	tissue	adult	encode					\blung\b;\blung\b
+Mesothelium	167	LQhCAGE CL:0000077	+	LQhCAGE	OutputType.CAGE	CL:0000077	mesothelial cell	primary_cell		fantom				272.4184265136719	\bmesothelial\b
+Mesothelium	440	LQhCAGE CL:0000077	-	LQhCAGE	OutputType.CAGE	CL:0000077	mesothelial cell	primary_cell		fantom				272.4184265136719	\bmesothelial\b
+Mesothelium	184	hCAGE CL:0000077	+	hCAGE	OutputType.CAGE	CL:0000077	mesothelial cell	primary_cell		fantom				41.45215606689453	\bmesothelial\b
+Mesothelium	457	hCAGE CL:0000077	-	hCAGE	OutputType.CAGE	CL:0000077	mesothelial cell	primary_cell		fantom				41.45215606689453	\bmesothelial\b
+Mesothelium	789	CL:0011019 DNase-seq	.	DNase-seq	OutputType.DNASE	CL:0011019	mesothelial cell of epicardium	in_vitro_differentiated_cells	embryonic	encode				0.6035394072532654	\bmesothelial\b
+Mesothelium	2857	CL:0011019 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	CL:0011019	mesothelial cell of epicardium	in_vitro_differentiated_cells	embryonic	encode			CTCF	0.8631079792976379	\bmesothelial\b
+Mesothelium	1101	CL:0011019 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	CL:0011019	mesothelial cell of epicardium	in_vitro_differentiated_cells	embryonic	encode				0.08205718547105789	\bmesothelial\b
+Mesothelium	1372	CL:0011019 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	CL:0011019	mesothelial cell of epicardium	in_vitro_differentiated_cells	embryonic	encode				0.08205718547105789	\bmesothelial\b
+Mesothelium	5254	junction_CL:0011019 total RNA-seq			OutputType.SPLICE_JUNCTIONS	CL:0011019	mesothelial cell of epicardium	in_vitro_differentiated_cells							\bmesothelial\b
+Mesothelium	4520	usage_CL:0011019 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	CL:0011019	mesothelial cell of epicardium	in_vitro_differentiated_cells	embryonic	encode					\bmesothelial\b
+Mesothelium	4887	usage_CL:0011019 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	CL:0011019	mesothelial cell of epicardium	in_vitro_differentiated_cells	embryonic	encode					\bmesothelial\b
+Ovary	1614	UBERON:0000992 gtex Ovary polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	gtex	Ovary			0.054519396275281906	\bovary\b;\bovary\b
+Ovary	4642	usage_UBERON:0000992 gtex Ovary polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000992	ovary	tissue	adult	gtex	Ovary				\bovary\b;\bovary\b
+Ovary	5009	usage_UBERON:0000992 gtex Ovary polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000992	ovary	tissue	adult	gtex	Ovary				\bovary\b;\bovary\b
+Ovary	5376	junction_UBERON:0000992 gtex Ovary polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000992	ovary	tissue			Ovary				\bovary\b;\bovary\b
+Ovary	1203	UBERON:0000992 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	encode				0.12122903764247894	\bovary\b;\bovary\b
+Ovary	1474	UBERON:0000992 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	encode				0.12122903764247894	\bovary\b;\bovary\b
+Ovary	1615	UBERON:0000992 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	embryonic	encode				0.418280690908432	\bovary\b;\bovary\b
+Ovary	4643	usage_UBERON:0000992 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000992	ovary	tissue	adult	encode					\bovary\b;\bovary\b
+Ovary	5010	usage_UBERON:0000992 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000992	ovary	tissue	adult	encode					\bovary\b;\bovary\b
+Ovary	126	UBERON:0000992 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0000992	ovary	tissue	adult	encode				0.14541088044643402	\bovary\b;\bovary\b
+Ovary	939	UBERON:0000992 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0000992	ovary	tissue	adult	encode				0.2674427926540375	\bovary\b;\bovary\b
+Ovary	2488	UBERON:0000992 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000992	ovary	tissue	adult	encode		H3K27ac		0.720077633857727	\bovary\b;\bovary\b
+Ovary	2489	UBERON:0000992 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000992	ovary	tissue	adult	encode		H3K27me3		0.9560567140579224	\bovary\b;\bovary\b
+Ovary	2490	UBERON:0000992 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000992	ovary	tissue	adult	encode		H3K36me3		1.3437166213989258	\bovary\b;\bovary\b
+Ovary	2491	UBERON:0000992 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000992	ovary	tissue	adult	encode		H3K4me1		1.3047332763671875	\bovary\b;\bovary\b
+Ovary	2492	UBERON:0000992 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000992	ovary	tissue	adult	encode		H3K4me3		0.7095605134963989	\bovary\b;\bovary\b
+Ovary	2493	UBERON:0000992 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000992	ovary	tissue	adult	encode		H3K9me3		0.879421055316925	\bovary\b;\bovary\b
+Ovary	4324	UBERON:0000992 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000992	ovary	tissue	adult	encode			CTCF	0.7582445740699768	\bovary\b;\bovary\b
+Ovary	4325	UBERON:0000992 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000992	ovary	tissue	adult	encode			POLR2A	0.8165345191955566	\bovary\b;\bovary\b
+Ovary	1204	UBERON:0000992 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	encode				0.11545416712760925	\bovary\b;\bovary\b
+Ovary	1475	UBERON:0000992 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	encode				0.11545416712760925	\bovary\b;\bovary\b
+Ovary	5377	junction_UBERON:0000992 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000992	ovary	tissue							\bovary\b;\bovary\b
+Ovary	5378	junction_UBERON:0000992 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000992	ovary	tissue							\bovary\b;\bovary\b
+Ovary	4644	usage_UBERON:0000992 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000992	ovary	tissue	adult	encode					\bovary\b;\bovary\b
+Ovary	5011	usage_UBERON:0000992 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000992	ovary	tissue	adult	encode					\bovary\b;\bovary\b
+Pancreas	1619	UBERON:0001150 gtex Pancreas polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001150	body of pancreas	tissue	adult	gtex	Pancreas			0.0555739589035511	\bpancreas\b;\bpancreas\b
+Pancreas	4656	usage_UBERON:0001150 gtex Pancreas polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001150	body of pancreas	tissue	adult	gtex	Pancreas				\bpancreas\b;\bpancreas\b
+Pancreas	5023	usage_UBERON:0001150 gtex Pancreas polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001150	body of pancreas	tissue	adult	gtex	Pancreas				\bpancreas\b;\bpancreas\b
+Pancreas	5390	junction_UBERON:0001150 gtex Pancreas polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001150	body of pancreas	tissue			Pancreas				\bpancreas\b;\bpancreas\b
+Pancreas	1187	UBERON:0000016 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000016	endocrine pancreas	tissue	adult	encode				0.08397355675697327	\bpancreas\b;\bpancreas\b
+Pancreas	1458	UBERON:0000016 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000016	endocrine pancreas	tissue	adult	encode				0.08397355675697327	\bpancreas\b;\bpancreas\b
+Pancreas	4623	usage_UBERON:0000016 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000016	endocrine pancreas	tissue	adult	encode					\bpancreas\b;\bpancreas\b
+Pancreas	4990	usage_UBERON:0000016 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000016	endocrine pancreas	tissue	adult	encode					\bpancreas\b;\bpancreas\b
+Pancreas	1220	UBERON:0001264 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001264	pancreas	tissue	adult	encode				0.1047201007604599	\bpancreas\b;\bpancreas\b
+Pancreas	1491	UBERON:0001264 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001264	pancreas	tissue	adult	encode				0.1047201007604599	\bpancreas\b;\bpancreas\b
+Pancreas	4670	usage_UBERON:0001264 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001264	pancreas	tissue	adult	encode					\bpancreas\b;\bpancreas\b
+Pancreas	5037	usage_UBERON:0001264 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001264	pancreas	tissue	adult	encode					\bpancreas\b;\bpancreas\b
+Pancreas	131	UBERON:0001150 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0001150	body of pancreas	tissue	adult	encode				1.4392449855804443	\bpancreas\b;\bpancreas\b
+Pancreas	944	UBERON:0001150 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001150	body of pancreas	tissue	adult	encode				0.357327401638031	\bpancreas\b;\bpancreas\b
+Pancreas	2517	UBERON:0001150 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001150	body of pancreas	tissue	adult	encode		H3K27ac		0.8846782445907593	\bpancreas\b;\bpancreas\b
+Pancreas	2518	UBERON:0001150 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001150	body of pancreas	tissue	adult	encode		H3K4me1		0.8054571151733398	\bpancreas\b;\bpancreas\b
+Pancreas	2519	UBERON:0001150 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001150	body of pancreas	tissue	adult	encode		H3K4me3		0.8380602598190308	\bpancreas\b;\bpancreas\b
+Pancreas	4333	UBERON:0001150 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001150	body of pancreas	tissue	adult	encode			CTCF	0.633335530757904	\bpancreas\b;\bpancreas\b
+Pancreas	4334	UBERON:0001150 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001150	body of pancreas	tissue	adult	encode			POLR2A	0.6484247446060181	\bpancreas\b;\bpancreas\b
+Pancreas	1213	UBERON:0001150 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001150	body of pancreas	tissue	adult	encode				0.14467252790927887	\bpancreas\b;\bpancreas\b
+Pancreas	1484	UBERON:0001150 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001150	body of pancreas	tissue	adult	encode				0.14467252790927887	\bpancreas\b;\bpancreas\b
+Pancreas	5391	junction_UBERON:0001150 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001150	body of pancreas	tissue							\bpancreas\b;\bpancreas\b
+Pancreas	4657	usage_UBERON:0001150 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001150	body of pancreas	tissue	adult	encode					\bpancreas\b;\bpancreas\b
+Pancreas	5024	usage_UBERON:0001150 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001150	body of pancreas	tissue	adult	encode					\bpancreas\b;\bpancreas\b
+Pancreas	2437	UBERON:0000016 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000016	endocrine pancreas	tissue	adult	encode		H3K27ac		1.4828875064849854	\bpancreas\b;\bpancreas\b
+Pancreas	2438	UBERON:0000016 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000016	endocrine pancreas	tissue	adult	encode		H3K36me3		2.1891863346099854	\bpancreas\b;\bpancreas\b
+Pancreas	2439	UBERON:0000016 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000016	endocrine pancreas	tissue	adult	encode		H3K4me1		2.137770652770996	\bpancreas\b;\bpancreas\b
+Pancreas	2440	UBERON:0000016 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000016	endocrine pancreas	tissue	adult	encode		H3K4me3		1.4818469285964966	\bpancreas\b;\bpancreas\b
+Pancreas	2441	UBERON:0000016 Histone ChIP-seq H3K9ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000016	endocrine pancreas	tissue	adult	encode		H3K9ac		2.1529765129089355	\bpancreas\b;\bpancreas\b
+Pancreas	5357	junction_UBERON:0000016 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000016	endocrine pancreas	tissue							\bpancreas\b;\bpancreas\b
+Pancreas	135	UBERON:0001264 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0001264	pancreas	tissue	adult	encode				0.28255096077919006	\bpancreas\b;\bpancreas\b
+Pancreas	949	UBERON:0001264 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001264	pancreas	tissue	adult	encode				0.29151973128318787	\bpancreas\b;\bpancreas\b
+Pancreas	2541	UBERON:0001264 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001264	pancreas	tissue	adult	encode		H3K27ac		0.7563256025314331	\bpancreas\b;\bpancreas\b
+Pancreas	2542	UBERON:0001264 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001264	pancreas	tissue	adult	encode		H3K36me3		0.8419210314750671	\bpancreas\b;\bpancreas\b
+Pancreas	2543	UBERON:0001264 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001264	pancreas	tissue	adult	encode		H3K4me1		0.7936822772026062	\bpancreas\b;\bpancreas\b
+Pancreas	2544	UBERON:0001264 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001264	pancreas	tissue	adult	encode		H3K4me3		0.7248829007148743	\bpancreas\b;\bpancreas\b
+Pancreas	2545	UBERON:0001264 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001264	pancreas	tissue	adult	encode		H3K9me3		1.5992413759231567	\bpancreas\b;\bpancreas\b
+Pancreas	4345	UBERON:0001264 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0001264	pancreas	tissue	adult	encode			CTCF	0.8030033707618713	\bpancreas\b;\bpancreas\b
+Pancreas	1221	UBERON:0001264 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001264	pancreas	tissue	adult	encode				0.10486374795436859	\bpancreas\b;\bpancreas\b
+Pancreas	1492	UBERON:0001264 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001264	pancreas	tissue	adult	encode				0.10486374795436859	\bpancreas\b;\bpancreas\b
+Pancreas	365	hCAGE UBERON:0001264	+	hCAGE	OutputType.CAGE	UBERON:0001264	pancreas	tissue		fantom				188.36380004882812	\bpancreas\b;\bpancreas\b
+Pancreas	638	hCAGE UBERON:0001264	-	hCAGE	OutputType.CAGE	UBERON:0001264	pancreas	tissue		fantom				188.36380004882812	\bpancreas\b;\bpancreas\b
+Pancreas	5404	junction_UBERON:0001264 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001264	pancreas	tissue							\bpancreas\b;\bpancreas\b
+Pancreas	5405	junction_UBERON:0001264 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001264	pancreas	tissue							\bpancreas\b;\bpancreas\b
+Pancreas	4671	usage_UBERON:0001264 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001264	pancreas	tissue	adult	encode					\bpancreas\b;\bpancreas\b
+Pancreas	5038	usage_UBERON:0001264 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001264	pancreas	tissue	adult	encode					\bpancreas\b;\bpancreas\b
+Prostate	1654	UBERON:0002367 gtex Prostate polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002367	prostate gland	tissue	adult	gtex	Prostate			0.05147687718272209	\bprostate\b
+Prostate	4735	usage_UBERON:0002367 gtex Prostate polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002367	prostate gland	tissue	adult	gtex	Prostate				\bprostate\b
+Prostate	5102	usage_UBERON:0002367 gtex Prostate polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002367	prostate gland	tissue	adult	gtex	Prostate				\bprostate\b
+Prostate	5469	junction_UBERON:0002367 gtex Prostate polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002367	prostate gland	tissue			Prostate				\bprostate\b
+Prostate	984	UBERON:0002367 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002367	prostate gland	tissue	adult	encode				0.7419143915176392	\bprostate\b
+Prostate	2671	UBERON:0002367 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002367	prostate gland	tissue	adult	encode		H3K27ac		0.8253678679466248	\bprostate\b
+Prostate	2672	UBERON:0002367 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002367	prostate gland	tissue	adult	encode		H3K36me3		0.8486926555633545	\bprostate\b
+Prostate	2673	UBERON:0002367 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002367	prostate gland	tissue	adult	encode		H3K4me3		0.827519953250885	\bprostate\b
+Prostate	4383	UBERON:0002367 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002367	prostate gland	tissue	adult	encode			CTCF	0.7694512009620667	\bprostate\b
+Prostate	4384	UBERON:0002367 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002367	prostate gland	tissue	adult	encode			POLR2A	0.8025744557380676	\bprostate\b
+Prostate	4385	UBERON:0002367 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002367	prostate gland	tissue	adult	encode			POLR2AphosphoS5	0.7898870706558228	\bprostate\b
+Prostate	1263	UBERON:0002367 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002367	prostate gland	tissue	adult	encode				0.13585683703422546	\bprostate\b
+Prostate	1534	UBERON:0002367 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002367	prostate gland	tissue	adult	encode				0.13585683703422546	\bprostate\b
+Prostate	417	hCAGE UBERON:0002367	+	hCAGE	OutputType.CAGE	UBERON:0002367	prostate gland	tissue		fantom				47.3486328125	\bprostate\b
+Prostate	690	hCAGE UBERON:0002367	-	hCAGE	OutputType.CAGE	UBERON:0002367	prostate gland	tissue		fantom				47.3486328125	\bprostate\b
+Prostate	5470	junction_UBERON:0002367 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002367	prostate gland	tissue							\bprostate\b
+Prostate	4736	usage_UBERON:0002367 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002367	prostate gland	tissue	adult	encode					\bprostate\b
+Prostate	5103	usage_UBERON:0002367 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002367	prostate gland	tissue	adult	encode					\bprostate\b
+Sarcoma	1677	UBERON:0011907 gtex Muscle_Skeletal polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0011907	gastrocnemius medialis	tissue	adult	gtex	Muscle_Skeletal			0.046867091208696365	\bgastrocnemius medialis\b
+Sarcoma	4778	usage_UBERON:0011907 gtex Muscle_Skeletal polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0011907	gastrocnemius medialis	tissue	adult	gtex	Muscle_Skeletal				\bgastrocnemius medialis\b
+Sarcoma	5145	usage_UBERON:0011907 gtex Muscle_Skeletal polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0011907	gastrocnemius medialis	tissue	adult	gtex	Muscle_Skeletal				\bgastrocnemius medialis\b
+Sarcoma	5512	junction_UBERON:0011907 gtex Muscle_Skeletal polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0011907	gastrocnemius medialis	tissue			Muscle_Skeletal				\bgastrocnemius medialis\b
+Sarcoma	1630	UBERON:0001499 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001499	muscle of arm	tissue	embryonic	encode				0.31494125723838806	\bmuscle of arm\b
+Sarcoma	4679	usage_UBERON:0001499 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001499	muscle of arm	tissue	embryonic	encode					\bmuscle of arm\b
+Sarcoma	5046	usage_UBERON:0001499 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001499	muscle of arm	tissue	embryonic	encode					\bmuscle of arm\b
+Sarcoma	1653	UBERON:0002324 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002324	muscle of back	tissue	embryonic	encode				0.2242487370967865	\bmuscle of back\b
+Sarcoma	4733	usage_UBERON:0002324 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002324	muscle of back	tissue	embryonic	encode					\bmuscle of back\b
+Sarcoma	5100	usage_UBERON:0002324 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002324	muscle of back	tissue	embryonic	encode					\bmuscle of back\b
+Sarcoma	1224	UBERON:0001383 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001383	muscle of leg	tissue	embryonic	encode				0.09429461508989334	\bmuscle of leg\b
+Sarcoma	1495	UBERON:0001383 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001383	muscle of leg	tissue	embryonic	encode				0.09429461508989334	\bmuscle of leg\b
+Sarcoma	1628	UBERON:0001383 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001383	muscle of leg	tissue	embryonic	encode				0.21778036653995514	\bmuscle of leg\b
+Sarcoma	4676	usage_UBERON:0001383 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001383	muscle of leg	tissue	embryonic	encode					\bmuscle of leg\b
+Sarcoma	5043	usage_UBERON:0001383 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001383	muscle of leg	tissue	embryonic	encode					\bmuscle of leg\b
+Sarcoma	1632	UBERON:0001774 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001774	muscle of trunk	tissue	embryonic	encode				0.08671995252370834	\bmuscle of trunk\b
+Sarcoma	4683	usage_UBERON:0001774 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001774	muscle of trunk	tissue	embryonic	encode					\bmuscle of trunk\b
+Sarcoma	5050	usage_UBERON:0001774 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001774	muscle of trunk	tissue	embryonic	encode					\bmuscle of trunk\b
+Sarcoma	1278	UBERON:0008450 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0008450	psoas muscle	tissue	adult	encode				0.14193594455718994	\bpsoas muscle\b
+Sarcoma	1549	UBERON:0008450 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0008450	psoas muscle	tissue	adult	encode				0.14193594455718994	\bpsoas muscle\b
+Sarcoma	4767	usage_UBERON:0008450 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008450	psoas muscle	tissue	adult	encode					\bpsoas muscle\b
+Sarcoma	5134	usage_UBERON:0008450 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008450	psoas muscle	tissue	adult	encode					\bpsoas muscle\b
+Sarcoma	165	UBERON:0011907 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode				0.8114848732948303	\bgastrocnemius medialis\b
+Sarcoma	1007	UBERON:0011907 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode				0.8089129328727722	\bgastrocnemius medialis\b
+Sarcoma	2770	UBERON:0011907 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode		H3K27ac		0.7793625593185425	\bgastrocnemius medialis\b
+Sarcoma	2771	UBERON:0011907 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode		H3K27me3		1.0060234069824219	\bgastrocnemius medialis\b
+Sarcoma	2772	UBERON:0011907 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode		H3K36me3		0.8559026122093201	\bgastrocnemius medialis\b
+Sarcoma	2773	UBERON:0011907 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode		H3K4me1		0.7837246656417847	\bgastrocnemius medialis\b
+Sarcoma	2774	UBERON:0011907 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode		H3K4me3		0.7359679341316223	\bgastrocnemius medialis\b
+Sarcoma	4413	UBERON:0011907 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode			CTCF	0.7411857843399048	\bgastrocnemius medialis\b
+Sarcoma	4414	UBERON:0011907 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode			POLR2A	0.6961440443992615	\bgastrocnemius medialis\b
+Sarcoma	1285	UBERON:0011907 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode				0.14263799786567688	\bgastrocnemius medialis\b
+Sarcoma	1556	UBERON:0011907 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode				0.14263799786567688	\bgastrocnemius medialis\b
+Sarcoma	5513	junction_UBERON:0011907 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0011907	gastrocnemius medialis	tissue							\bgastrocnemius medialis\b
+Sarcoma	4779	usage_UBERON:0011907 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode					\bgastrocnemius medialis\b
+Sarcoma	5146	usage_UBERON:0011907 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode					\bgastrocnemius medialis\b
+Sarcoma	954	UBERON:0001499 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001499	muscle of arm	tissue	embryonic	encode				1.5984889268875122	\bmuscle of arm\b
+Sarcoma	5413	junction_UBERON:0001499 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001499	muscle of arm	tissue							\bmuscle of arm\b
+Sarcoma	982	UBERON:0002324 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002324	muscle of back	tissue	embryonic	encode				0.36552220582962036	\bmuscle of back\b
+Sarcoma	5467	junction_UBERON:0002324 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002324	muscle of back	tissue							\bmuscle of back\b
+Sarcoma	952	UBERON:0001383 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001383	muscle of leg	tissue	embryonic	encode				0.5681041479110718	\bmuscle of leg\b
+Sarcoma	2552	UBERON:0001383 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001383	muscle of leg	tissue	embryonic	encode		H3K27ac		1.4244413375854492	\bmuscle of leg\b
+Sarcoma	2553	UBERON:0001383 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001383	muscle of leg	tissue	embryonic	encode		H3K27me3		1.6756627559661865	\bmuscle of leg\b
+Sarcoma	2554	UBERON:0001383 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001383	muscle of leg	tissue	embryonic	encode		H3K36me3		1.3110146522521973	\bmuscle of leg\b
+Sarcoma	2555	UBERON:0001383 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001383	muscle of leg	tissue	embryonic	encode		H3K4me1		1.5736838579177856	\bmuscle of leg\b
+Sarcoma	2556	UBERON:0001383 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001383	muscle of leg	tissue	embryonic	encode		H3K4me3		1.1692146062850952	\bmuscle of leg\b
+Sarcoma	2557	UBERON:0001383 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001383	muscle of leg	tissue	embryonic	encode		H3K9me3		0.9339243769645691	\bmuscle of leg\b
+Sarcoma	5410	junction_UBERON:0001383 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001383	muscle of leg	tissue							\bmuscle of leg\b
+Sarcoma	958	UBERON:0001774 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0001774	muscle of trunk	tissue	embryonic	encode				0.4869764447212219	\bmuscle of trunk\b
+Sarcoma	2569	UBERON:0001774 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001774	muscle of trunk	tissue	embryonic	encode		H3K27ac		1.3104538917541504	\bmuscle of trunk\b
+Sarcoma	2570	UBERON:0001774 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001774	muscle of trunk	tissue	embryonic	encode		H3K27me3		1.8899438381195068	\bmuscle of trunk\b
+Sarcoma	2571	UBERON:0001774 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001774	muscle of trunk	tissue	embryonic	encode		H3K36me3		1.3060396909713745	\bmuscle of trunk\b
+Sarcoma	2572	UBERON:0001774 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001774	muscle of trunk	tissue	embryonic	encode		H3K4me1		2.113858461380005	\bmuscle of trunk\b
+Sarcoma	2573	UBERON:0001774 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001774	muscle of trunk	tissue	embryonic	encode		H3K4me3		1.0175188779830933	\bmuscle of trunk\b
+Sarcoma	2574	UBERON:0001774 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001774	muscle of trunk	tissue	embryonic	encode		H3K9me3		1.3337962627410889	\bmuscle of trunk\b
+Sarcoma	5417	junction_UBERON:0001774 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001774	muscle of trunk	tissue							\bmuscle of trunk\b
+Sarcoma	160	UBERON:0008450 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0008450	psoas muscle	tissue	adult	encode				0.6796603798866272	\bpsoas muscle\b
+Sarcoma	1001	UBERON:0008450 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0008450	psoas muscle	tissue	adult	encode				0.9886283278465271	\bpsoas muscle\b
+Sarcoma	2749	UBERON:0008450 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008450	psoas muscle	tissue	adult	encode		H3K27ac		0.9119850397109985	\bpsoas muscle\b
+Sarcoma	2750	UBERON:0008450 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008450	psoas muscle	tissue	adult	encode		H3K27me3		0.8814289569854736	\bpsoas muscle\b
+Sarcoma	2751	UBERON:0008450 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008450	psoas muscle	tissue	adult	encode		H3K36me3		0.9716756343841553	\bpsoas muscle\b
+Sarcoma	2752	UBERON:0008450 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008450	psoas muscle	tissue	adult	encode		H3K4me1		0.8452923893928528	\bpsoas muscle\b
+Sarcoma	2753	UBERON:0008450 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0008450	psoas muscle	tissue	adult	encode		H3K4me3		0.7766005396842957	\bpsoas muscle\b
+Sarcoma	4405	UBERON:0008450 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0008450	psoas muscle	tissue	adult	encode			CTCF	1.0725865364074707	\bpsoas muscle\b
+Sarcoma	1279	UBERON:0008450 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008450	psoas muscle	tissue	adult	encode				0.19859784841537476	\bpsoas muscle\b
+Sarcoma	1550	UBERON:0008450 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008450	psoas muscle	tissue	adult	encode				0.19859784841537476	\bpsoas muscle\b
+Sarcoma	5501	junction_UBERON:0008450 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0008450	psoas muscle	tissue							\bpsoas muscle\b
+Sarcoma	5502	junction_UBERON:0008450 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0008450	psoas muscle	tissue							\bpsoas muscle\b
+Sarcoma	4768	usage_UBERON:0008450 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008450	psoas muscle	tissue	adult	encode					\bpsoas muscle\b
+Sarcoma	5135	usage_UBERON:0008450 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0008450	psoas muscle	tissue	adult	encode					\bpsoas muscle\b
+Sarcoma	2511	UBERON:0001134 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001134	skeletal muscle tissue	tissue	adult	encode		H3K27ac		1.3797202110290527	\bskeletal muscle tissue\b
+Sarcoma	2512	UBERON:0001134 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001134	skeletal muscle tissue	tissue	adult	encode		H3K27me3		0.8649007081985474	\bskeletal muscle tissue\b
+Sarcoma	2513	UBERON:0001134 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001134	skeletal muscle tissue	tissue	adult	encode		H3K36me3		0.8371026515960693	\bskeletal muscle tissue\b
+Sarcoma	2514	UBERON:0001134 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001134	skeletal muscle tissue	tissue	adult	encode		H3K4me1		0.9665578007698059	\bskeletal muscle tissue\b
+Sarcoma	2515	UBERON:0001134 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001134	skeletal muscle tissue	tissue	adult	encode		H3K4me3		0.8837461471557617	\bskeletal muscle tissue\b
+Sarcoma	2516	UBERON:0001134 Histone ChIP-seq H3K9ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001134	skeletal muscle tissue	tissue	adult	encode		H3K9ac		1.0119422674179077	\bskeletal muscle tissue\b
+Sarcoma	1212	UBERON:0001134 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001134	skeletal muscle tissue	tissue	embryonic	encode				0.10401706397533417	\bskeletal muscle tissue\b
+Sarcoma	1483	UBERON:0001134 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001134	skeletal muscle tissue	tissue	embryonic	encode				0.10401706397533417	\bskeletal muscle tissue\b
+Sarcoma	360	hCAGE UBERON:0001134	+	hCAGE	OutputType.CAGE	UBERON:0001134	skeletal muscle tissue	tissue		fantom				50.37820816040039	\bskeletal muscle tissue\b
+Sarcoma	633	hCAGE UBERON:0001134	-	hCAGE	OutputType.CAGE	UBERON:0001134	skeletal muscle tissue	tissue		fantom				50.37820816040039	\bskeletal muscle tissue\b
+Sarcoma	5389	junction_UBERON:0001134 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0001134	skeletal muscle tissue	tissue							\bskeletal muscle tissue\b
+Sarcoma	4655	usage_UBERON:0001134 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001134	skeletal muscle tissue	tissue	embryonic	encode					\bskeletal muscle tissue\b
+Sarcoma	5022	usage_UBERON:0001134 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0001134	skeletal muscle tissue	tissue	embryonic	encode					\bskeletal muscle tissue\b
+Sarcoma	368	hCAGE UBERON:0001389	+	hCAGE	OutputType.CAGE	UBERON:0001389	soleus muscle	tissue		fantom				52.885318756103516	\bsoleus muscle\b
+Sarcoma	641	hCAGE UBERON:0001389	-	hCAGE	OutputType.CAGE	UBERON:0001389	soleus muscle	tissue		fantom				52.885318756103516	\bsoleus muscle\b
+Skin	1661	UBERON:0004264 gtex Skin_Sun_Exposed_Lower_leg polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0004264	lower leg skin	tissue	adult	gtex	Skin_Sun_Exposed_Lower_leg			0.044400908052921295	\bskin\b
+Skin	4746	usage_UBERON:0004264 gtex Skin_Sun_Exposed_Lower_leg polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004264	lower leg skin	tissue	adult	gtex	Skin_Sun_Exposed_Lower_leg				\bskin\b
+Skin	5113	usage_UBERON:0004264 gtex Skin_Sun_Exposed_Lower_leg polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004264	lower leg skin	tissue	adult	gtex	Skin_Sun_Exposed_Lower_leg				\bskin\b
+Skin	1684	UBERON:0036149 gtex Skin_Not_Sun_Exposed_Suprapubic polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0036149	suprapubic skin	tissue	adult	gtex	Skin_Not_Sun_Exposed_Suprapubic			0.04540431126952171	\bskin\b
+Skin	4787	usage_UBERON:0036149 gtex Skin_Not_Sun_Exposed_Suprapubic polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0036149	suprapubic skin	tissue	adult	gtex	Skin_Not_Sun_Exposed_Suprapubic				\bskin\b
+Skin	5154	usage_UBERON:0036149 gtex Skin_Not_Sun_Exposed_Suprapubic polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0036149	suprapubic skin	tissue	adult	gtex	Skin_Not_Sun_Exposed_Suprapubic				\bskin\b
+Skin	5480	junction_UBERON:0004264 gtex Skin_Sun_Exposed_Lower_leg polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0004264	lower leg skin	tissue			Skin_Sun_Exposed_Lower_leg				\bskin\b
+Skin	5521	junction_UBERON:0036149 gtex Skin_Not_Sun_Exposed_Suprapubic polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0036149	suprapubic skin	tissue			Skin_Not_Sun_Exposed_Suprapubic				\bskin\b
+Skin	1288	UBERON:1000010 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:1000010	mole	tissue	unknown	encode				0.14376847445964813	\bmole\b
+Skin	1559	UBERON:1000010 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:1000010	mole	tissue	unknown	encode				0.14376847445964813	\bmole\b
+Skin	992	UBERON:0004264 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0004264	lower leg skin	tissue	adult	encode				0.4412038326263428	\bskin\b
+Skin	4388	UBERON:0004264 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0004264	lower leg skin	tissue	adult	encode			CTCF	0.7847298383712769	\bskin\b
+Skin	4389	UBERON:0004264 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0004264	lower leg skin	tissue	adult	encode			POLR2A	1.0131124258041382	\bskin\b
+Skin	1269	UBERON:0004264 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004264	lower leg skin	tissue	adult	encode				0.12619370222091675	\bskin\b
+Skin	1540	UBERON:0004264 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004264	lower leg skin	tissue	adult	encode				0.12619370222091675	\bskin\b
+Skin	5481	junction_UBERON:0004264 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0004264	lower leg skin	tissue							\bskin\b
+Skin	4747	usage_UBERON:0004264 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004264	lower leg skin	tissue	adult	encode					\bskin\b
+Skin	5114	usage_UBERON:0004264 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0004264	lower leg skin	tissue	adult	encode					\bskin\b
+Skin	2500	UBERON:0001003 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001003	skin epidermis	tissue	adult	encode		H3K27ac		0.7780634164810181	\bskin\b
+Skin	2501	UBERON:0001003 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001003	skin epidermis	tissue	adult	encode		H3K4me3		0.7833503484725952	\bskin\b
+Skin	1247	UBERON:0002097 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002097	skin of body	tissue	embryonic	encode				0.07668855786323547	\bskin\b
+Skin	1518	UBERON:0002097 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002097	skin of body	tissue	embryonic	encode				0.07668855786323547	\bskin\b
+Skin	5447	junction_UBERON:0002097 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002097	skin of body	tissue							\bskin\b
+Skin	4713	usage_UBERON:0002097 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002097	skin of body	tissue	embryonic	encode					\bskin\b
+Skin	5080	usage_UBERON:0002097 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002097	skin of body	tissue	embryonic	encode					\bskin\b
+Skin	439	hCAGE UBERON:0013777	+	hCAGE	OutputType.CAGE	UBERON:0013777	skin of palm of manus	tissue		fantom				43.870784759521484	\bskin\b
+Skin	712	hCAGE UBERON:0013777	-	hCAGE	OutputType.CAGE	UBERON:0013777	skin of palm of manus	tissue		fantom				43.870784759521484	\bskin\b
+Skin	1013	UBERON:0036149 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0036149	suprapubic skin	tissue	adult	encode				0.48592454195022583	\bskin\b
+Skin	2796	UBERON:0036149 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0036149	suprapubic skin	tissue	adult	encode		H3K27ac		0.8285009860992432	\bskin\b
+Skin	2797	UBERON:0036149 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0036149	suprapubic skin	tissue	adult	encode		H3K27me3		0.8321241736412048	\bskin\b
+Skin	2798	UBERON:0036149 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0036149	suprapubic skin	tissue	adult	encode		H3K36me3		0.8314632773399353	\bskin\b
+Skin	2799	UBERON:0036149 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0036149	suprapubic skin	tissue	adult	encode		H3K4me1		0.8719038963317871	\bskin\b
+Skin	2800	UBERON:0036149 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0036149	suprapubic skin	tissue	adult	encode		H3K4me3		0.9653574824333191	\bskin\b
+Skin	4415	UBERON:0036149 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0036149	suprapubic skin	tissue	adult	encode			CTCF	0.7931932210922241	\bskin\b
+Skin	4416	UBERON:0036149 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0036149	suprapubic skin	tissue	adult	encode			POLR2A	0.898074746131897	\bskin\b
+Skin	4417	UBERON:0036149 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0036149	suprapubic skin	tissue	adult	encode			POLR2AphosphoS5	0.8308342099189758	\bskin\b
+Skin	1287	UBERON:0036149 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0036149	suprapubic skin	tissue	adult	encode				0.10089779645204544	\bskin\b
+Skin	1558	UBERON:0036149 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0036149	suprapubic skin	tissue	adult	encode				0.10089779645204544	\bskin\b
+Skin	5522	junction_UBERON:0036149 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0036149	suprapubic skin	tissue							\bskin\b
+Skin	4788	usage_UBERON:0036149 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0036149	suprapubic skin	tissue	adult	encode					\bskin\b
+Skin	5155	usage_UBERON:0036149 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0036149	suprapubic skin	tissue	adult	encode					\bskin\b
+Skin	332	hCAGE UBERON:0000014	+	hCAGE	OutputType.CAGE	UBERON:0000014	zone of skin	tissue		fantom				90.9419937133789	\bskin\b
+Skin	605	hCAGE UBERON:0000014	-	hCAGE	OutputType.CAGE	UBERON:0000014	zone of skin	tissue		fantom				90.9419937133789	\bskin\b
+Stomach	1611	UBERON:0000945 gtex Stomach polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	gtex	Stomach			0.051221586763858795	\bstomach\b;\bstomach\b
+Stomach	4634	usage_UBERON:0000945 gtex Stomach polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000945	stomach	tissue	adult	gtex	Stomach				\bstomach\b;\bstomach\b
+Stomach	5001	usage_UBERON:0000945 gtex Stomach polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000945	stomach	tissue	adult	gtex	Stomach				\bstomach\b;\bstomach\b
+Stomach	5368	junction_UBERON:0000945 gtex Stomach polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000945	stomach	tissue			Stomach				\bstomach\b;\bstomach\b
+Stomach	1196	UBERON:0000945 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	encode				0.4686560034751892	\bstomach\b;\bstomach\b
+Stomach	1467	UBERON:0000945 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	encode				0.4686560034751892	\bstomach\b;\bstomach\b
+Stomach	1612	UBERON:0000945 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	embryonic	encode				0.08617443591356277	\bstomach\b;\bstomach\b
+Stomach	4635	usage_UBERON:0000945 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000945	stomach	tissue	adult	encode					\bstomach\b;\bstomach\b
+Stomach	5002	usage_UBERON:0000945 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000945	stomach	tissue	adult	encode					\bstomach\b;\bstomach\b
+Stomach	2530	UBERON:0001199 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001199	mucosa of stomach	tissue	adult	encode		H3K27me3		0.9448559880256653	\bstomach\b;\bstomach\b
+Stomach	2531	UBERON:0001199 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001199	mucosa of stomach	tissue	adult	encode		H3K4me1		0.9851387739181519	\bstomach\b;\bstomach\b
+Stomach	2532	UBERON:0001199 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001199	mucosa of stomach	tissue	adult	encode		H3K4me3		0.9022591710090637	\bstomach\b;\bstomach\b
+Stomach	2533	UBERON:0001199 Histone ChIP-seq H3K9ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0001199	mucosa of stomach	tissue	adult	encode		H3K9ac		0.9789822101593018	\bstomach\b;\bstomach\b
+Stomach	125	UBERON:0000945 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0000945	stomach	tissue	adult	encode				1.1229300498962402	\bstomach\b;\bstomach\b
+Stomach	931	UBERON:0000945 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0000945	stomach	tissue	adult	encode				0.9069320559501648	\bstomach\b;\bstomach\b
+Stomach	2470	UBERON:0000945 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000945	stomach	tissue	adult	encode		H3K27ac		1.3241729736328125	\bstomach\b;\bstomach\b
+Stomach	2471	UBERON:0000945 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000945	stomach	tissue	adult	encode		H3K27me3		0.8545126914978027	\bstomach\b;\bstomach\b
+Stomach	2472	UBERON:0000945 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000945	stomach	tissue	adult	encode		H3K36me3		0.8173034191131592	\bstomach\b;\bstomach\b
+Stomach	2473	UBERON:0000945 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000945	stomach	tissue	adult	encode		H3K4me1		0.8793164491653442	\bstomach\b;\bstomach\b
+Stomach	2474	UBERON:0000945 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000945	stomach	tissue	adult	encode		H3K4me3		0.7691627740859985	\bstomach\b;\bstomach\b
+Stomach	2475	UBERON:0000945 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000945	stomach	tissue	adult	encode		H3K9me3		0.8707597255706787	\bstomach\b;\bstomach\b
+Stomach	4320	UBERON:0000945 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000945	stomach	tissue	adult	encode			CTCF	0.7626453638076782	\bstomach\b;\bstomach\b
+Stomach	4321	UBERON:0000945 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000945	stomach	tissue	adult	encode			POLR2A	0.7864598631858826	\bstomach\b;\bstomach\b
+Stomach	4322	UBERON:0000945 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000945	stomach	tissue	adult	encode			POLR2AphosphoS5	0.771416962146759	\bstomach\b;\bstomach\b
+Stomach	1197	UBERON:0000945 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	encode				0.21596461534500122	\bstomach\b;\bstomach\b
+Stomach	1468	UBERON:0000945 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	encode				0.21596461534500122	\bstomach\b;\bstomach\b
+Stomach	343	hCAGE UBERON:0000945	+	hCAGE	OutputType.CAGE	UBERON:0000945	stomach	tissue		fantom				149.30126953125	\bstomach\b;\bstomach\b
+Stomach	616	hCAGE UBERON:0000945	-	hCAGE	OutputType.CAGE	UBERON:0000945	stomach	tissue		fantom				149.30126953125	\bstomach\b;\bstomach\b
+Stomach	5369	junction_UBERON:0000945 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000945	stomach	tissue							\bstomach\b;\bstomach\b
+Stomach	5370	junction_UBERON:0000945 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000945	stomach	tissue							\bstomach\b;\bstomach\b
+Stomach	4636	usage_UBERON:0000945 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000945	stomach	tissue	adult	encode					\bstomach\b;\bstomach\b
+Stomach	5003	usage_UBERON:0000945 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000945	stomach	tissue	adult	encode					\bstomach\b;\bstomach\b
+Stomach	2705	UBERON:0004222 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004222	stomach smooth muscle	tissue	adult	encode		H3K27ac		1.061765193939209	\bstomach\b;\bstomach\b
+Stomach	2706	UBERON:0004222 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004222	stomach smooth muscle	tissue	adult	encode		H3K27me3		0.8521047234535217	\bstomach\b;\bstomach\b
+Stomach	2707	UBERON:0004222 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004222	stomach smooth muscle	tissue	adult	encode		H3K36me3		0.826144814491272	\bstomach\b;\bstomach\b
+Stomach	2708	UBERON:0004222 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004222	stomach smooth muscle	tissue	adult	encode		H3K4me1		1.913686752319336	\bstomach\b;\bstomach\b
+Stomach	2709	UBERON:0004222 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004222	stomach smooth muscle	tissue	adult	encode		H3K4me3		0.9053452610969543	\bstomach\b;\bstomach\b
+Stomach	2710	UBERON:0004222 Histone ChIP-seq H3K9ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0004222	stomach smooth muscle	tissue	adult	encode		H3K9ac		0.7713716626167297	\bstomach\b;\bstomach\b
+Testis	1609	UBERON:0000473 gtex Testis polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	gtex	Testis			0.03635135665535927	\btestis\b;\btestis\b
+Testis	4631	usage_UBERON:0000473 gtex Testis polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000473	testis	tissue	adult	gtex	Testis				\btestis\b;\btestis\b
+Testis	4998	usage_UBERON:0000473 gtex Testis polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000473	testis	tissue	adult	gtex	Testis				\btestis\b;\btestis\b
+Testis	5365	junction_UBERON:0000473 gtex Testis polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000473	testis	tissue			Testis				\btestis\b;\btestis\b
+Testis	1194	UBERON:0000473 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	encode				0.1770746260881424	\btestis\b;\btestis\b
+Testis	1465	UBERON:0000473 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	encode				0.1770746260881424	\btestis\b;\btestis\b
+Testis	1610	UBERON:0000473 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	embryonic	encode				0.7033047676086426	\btestis\b;\btestis\b
+Testis	4632	usage_UBERON:0000473 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000473	testis	tissue	adult	encode					\btestis\b;\btestis\b
+Testis	4999	usage_UBERON:0000473 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000473	testis	tissue	adult	encode					\btestis\b;\btestis\b
+Testis	366	hCAGE UBERON:0001301	+	hCAGE	OutputType.CAGE	UBERON:0001301	epididymis	tissue		fantom				41.035892486572266	\bepididymis\b
+Testis	639	hCAGE UBERON:0001301	-	hCAGE	OutputType.CAGE	UBERON:0001301	epididymis	tissue		fantom				41.035892486572266	\bepididymis\b
+Testis	930	UBERON:0000473 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0000473	testis	tissue	adult	encode				0.9270487427711487	\btestis\b;\btestis\b
+Testis	2467	UBERON:0000473 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000473	testis	tissue	adult	encode		H3K27ac		0.8015499114990234	\btestis\b;\btestis\b
+Testis	2468	UBERON:0000473 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000473	testis	tissue	adult	encode		H3K4me1		0.8120537400245667	\btestis\b;\btestis\b
+Testis	2469	UBERON:0000473 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000473	testis	tissue	adult	encode		H3K4me3		0.8049049973487854	\btestis\b;\btestis\b
+Testis	4319	UBERON:0000473 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000473	testis	tissue	adult	encode			CTCF	0.7873856425285339	\btestis\b;\btestis\b
+Testis	1195	UBERON:0000473 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	encode				0.05251283198595047	\btestis\b;\btestis\b
+Testis	1466	UBERON:0000473 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	encode				0.05251283198595047	\btestis\b;\btestis\b
+Testis	340	hCAGE UBERON:0000473	+	hCAGE	OutputType.CAGE	UBERON:0000473	testis	tissue		fantom				19.597055435180664	\btestis\b;\btestis\b
+Testis	613	hCAGE UBERON:0000473	-	hCAGE	OutputType.CAGE	UBERON:0000473	testis	tissue		fantom				19.597055435180664	\btestis\b;\btestis\b
+Testis	5366	junction_UBERON:0000473 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000473	testis	tissue							\btestis\b;\btestis\b
+Testis	5367	junction_UBERON:0000473 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000473	testis	tissue							\btestis\b;\btestis\b
+Testis	4633	usage_UBERON:0000473 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000473	testis	tissue	adult	encode					\btestis\b;\btestis\b
+Testis	5000	usage_UBERON:0000473 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000473	testis	tissue	adult	encode					\btestis\b;\btestis\b
+Thyroid	1642	UBERON:0002046 gtex Thyroid polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002046	thyroid gland	tissue	adult	gtex	Thyroid			0.04541570320725441	\bthyroid\b
+Thyroid	4702	usage_UBERON:0002046 gtex Thyroid polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002046	thyroid gland	tissue	adult	gtex	Thyroid				\bthyroid\b
+Thyroid	5069	usage_UBERON:0002046 gtex Thyroid polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002046	thyroid gland	tissue	adult	gtex	Thyroid				\bthyroid\b
+Thyroid	5436	junction_UBERON:0002046 gtex Thyroid polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002046	thyroid gland	tissue			Thyroid				\bthyroid\b
+Thyroid	137	UBERON:0002046 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0002046	thyroid gland	tissue	adult	encode				1.391801118850708	\bthyroid\b
+Thyroid	965	UBERON:0002046 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002046	thyroid gland	tissue	adult	encode				0.7914156913757324	\bthyroid\b
+Thyroid	2597	UBERON:0002046 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002046	thyroid gland	tissue	adult	encode		H3K27ac		1.0849581956863403	\bthyroid\b
+Thyroid	2598	UBERON:0002046 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002046	thyroid gland	tissue	adult	encode		H3K36me3		0.8517771363258362	\bthyroid\b
+Thyroid	2599	UBERON:0002046 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002046	thyroid gland	tissue	adult	encode		H3K4me1		0.8095167279243469	\bthyroid\b
+Thyroid	2600	UBERON:0002046 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002046	thyroid gland	tissue	adult	encode		H3K4me3		1.038463830947876	\bthyroid\b
+Thyroid	4354	UBERON:0002046 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002046	thyroid gland	tissue	adult	encode			CTCF	0.6934561133384705	\bthyroid\b
+Thyroid	4355	UBERON:0002046 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0002046	thyroid gland	tissue	adult	encode			POLR2A	0.8287394046783447	\bthyroid\b
+Thyroid	1237	UBERON:0002046 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002046	thyroid gland	tissue	adult	encode				0.07622677832841873	\bthyroid\b
+Thyroid	1508	UBERON:0002046 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002046	thyroid gland	tissue	adult	encode				0.07622677832841873	\bthyroid\b
+Thyroid	395	hCAGE UBERON:0002046	+	hCAGE	OutputType.CAGE	UBERON:0002046	thyroid gland	tissue		fantom				22.91981315612793	\bthyroid\b
+Thyroid	668	hCAGE UBERON:0002046	-	hCAGE	OutputType.CAGE	UBERON:0002046	thyroid gland	tissue		fantom				22.91981315612793	\bthyroid\b
+Thyroid	5437	junction_UBERON:0002046 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002046	thyroid gland	tissue							\bthyroid\b
+Thyroid	4703	usage_UBERON:0002046 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002046	thyroid gland	tissue	adult	encode					\bthyroid\b
+Thyroid	5070	usage_UBERON:0002046 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002046	thyroid gland	tissue	adult	encode					\bthyroid\b
+Thymus	1266	UBERON:0002370 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode				0.13122648000717163	\bthymus\b;\bthymus\b
+Thymus	1537	UBERON:0002370 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode				0.13122648000717163	\bthymus\b;\bthymus\b
+Thymus	1657	UBERON:0002370 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode				0.17336340248584747	\bthymus\b;\bthymus\b
+Thymus	4740	usage_UBERON:0002370 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002370	thymus	tissue	embryonic	encode					\bthymus\b;\bthymus\b
+Thymus	5107	usage_UBERON:0002370 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0002370	thymus	tissue	embryonic	encode					\bthymus\b;\bthymus\b
+Thymus	986	UBERON:0002370 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0002370	thymus	tissue	embryonic	encode				0.23071163892745972	\bthymus\b;\bthymus\b
+Thymus	2680	UBERON:0002370 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K27ac		0.9632824063301086	\bthymus\b;\bthymus\b
+Thymus	2681	UBERON:0002370 Histone ChIP-seq H3K27me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K27me3		0.9465627074241638	\bthymus\b;\bthymus\b
+Thymus	2682	UBERON:0002370 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K36me3		1.3685346841812134	\bthymus\b;\bthymus\b
+Thymus	2683	UBERON:0002370 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K4me1		1.824151873588562	\bthymus\b;\bthymus\b
+Thymus	2684	UBERON:0002370 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K4me3		1.1562947034835815	\bthymus\b;\bthymus\b
+Thymus	2685	UBERON:0002370 Histone ChIP-seq H3K9me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0002370	thymus	tissue	embryonic	encode		H3K9me3		1.4777132272720337	\bthymus\b;\bthymus\b
+Thymus	419	hCAGE UBERON:0002370	+	hCAGE	OutputType.CAGE	UBERON:0002370	thymus	tissue		fantom				22.066835403442383	\bthymus\b;\bthymus\b
+Thymus	692	hCAGE UBERON:0002370	-	hCAGE	OutputType.CAGE	UBERON:0002370	thymus	tissue		fantom				22.066835403442383	\bthymus\b;\bthymus\b
+Thymus	5474	junction_UBERON:0002370 polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0002370	thymus	tissue							\bthymus\b;\bthymus\b
+Uterus	1616	UBERON:0000995 gtex Uterus polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000995	uterus	tissue	adult	gtex	Uterus			0.059197694063186646	\buterus\b;\buterus\b
+Uterus	4645	usage_UBERON:0000995 gtex Uterus polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000995	uterus	tissue	adult	gtex	Uterus				\buterus\b;\buterus\b
+Uterus	5012	usage_UBERON:0000995 gtex Uterus polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000995	uterus	tissue	adult	gtex	Uterus				\buterus\b;\buterus\b
+Uterus	1617	UBERON:0000996 gtex Vagina polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000996	vagina	tissue	adult	gtex	Vagina			0.05682068690657616	\bvagina\b
+Uterus	4647	usage_UBERON:0000996 gtex Vagina polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000996	vagina	tissue	adult	gtex	Vagina				\bvagina\b
+Uterus	5014	usage_UBERON:0000996 gtex Vagina polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000996	vagina	tissue	adult	gtex	Vagina				\bvagina\b
+Uterus	5379	junction_UBERON:0000995 gtex Uterus polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000995	uterus	tissue			Uterus				\buterus\b;\buterus\b
+Uterus	5381	junction_UBERON:0000996 gtex Vagina polyA plus RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000996	vagina	tissue			Vagina				\bvagina\b
+Uterus	432	hCAGE UBERON:0005795	+	hCAGE	OutputType.CAGE	UBERON:0005795	embryonic uterus	tissue		fantom				100.48787689208984	\buterus\b;\buterus\b
+Uterus	705	hCAGE UBERON:0005795	-	hCAGE	OutputType.CAGE	UBERON:0005795	embryonic uterus	tissue		fantom				100.48787689208984	\buterus\b;\buterus\b
+Uterus	330	hCAGE UBERON:0000002	+	hCAGE	OutputType.CAGE	UBERON:0000002	uterine cervix	tissue		fantom				35.90520477294922	\buterine\b
+Uterus	603	hCAGE UBERON:0000002	-	hCAGE	OutputType.CAGE	UBERON:0000002	uterine cervix	tissue		fantom				35.90520477294922	\buterine\b
+Uterus	127	UBERON:0000995 ATAC-seq	.	ATAC-seq	OutputType.ATAC	UBERON:0000995	uterus	tissue	adult	encode				0.3675922751426697	\buterus\b;\buterus\b
+Uterus	940	UBERON:0000995 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0000995	uterus	tissue	adult	encode				0.5486983060836792	\buterus\b;\buterus\b
+Uterus	2494	UBERON:0000995 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000995	uterus	tissue	adult	encode		H3K27ac		0.8092418909072876	\buterus\b;\buterus\b
+Uterus	2495	UBERON:0000995 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000995	uterus	tissue	adult	encode		H3K4me3		0.8103049397468567	\buterus\b;\buterus\b
+Uterus	4326	UBERON:0000995 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000995	uterus	tissue	adult	encode			CTCF	0.771110475063324	\buterus\b;\buterus\b
+Uterus	4327	UBERON:0000995 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000995	uterus	tissue	adult	encode			POLR2A	0.7721084356307983	\buterus\b;\buterus\b
+Uterus	1205	UBERON:0000995 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000995	uterus	tissue	adult	encode				0.36165136098861694	\buterus\b;\buterus\b
+Uterus	1476	UBERON:0000995 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000995	uterus	tissue	adult	encode				0.36165136098861694	\buterus\b;\buterus\b
+Uterus	351	hCAGE UBERON:0000995	+	hCAGE	OutputType.CAGE	UBERON:0000995	uterus	tissue		fantom				59.67921447753906	\buterus\b;\buterus\b
+Uterus	624	hCAGE UBERON:0000995	-	hCAGE	OutputType.CAGE	UBERON:0000995	uterus	tissue		fantom				59.67921447753906	\buterus\b;\buterus\b
+Uterus	5380	junction_UBERON:0000995 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000995	uterus	tissue							\buterus\b;\buterus\b
+Uterus	4646	usage_UBERON:0000995 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000995	uterus	tissue	adult	encode					\buterus\b;\buterus\b
+Uterus	5013	usage_UBERON:0000995 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000995	uterus	tissue	adult	encode					\buterus\b;\buterus\b
+Uterus	2496	UBERON:0000996 Histone ChIP-seq H3K27ac	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000996	vagina	tissue	adult	encode		H3K27ac		1.0347249507904053	\bvagina\b
+Uterus	2497	UBERON:0000996 Histone ChIP-seq H3K36me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000996	vagina	tissue	adult	encode		H3K36me3		0.8707129955291748	\bvagina\b
+Uterus	2498	UBERON:0000996 Histone ChIP-seq H3K4me1	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000996	vagina	tissue	adult	encode		H3K4me1		0.8535761833190918	\bvagina\b
+Uterus	2499	UBERON:0000996 Histone ChIP-seq H3K4me3	.	Histone ChIP-seq	OutputType.CHIP_HISTONE	UBERON:0000996	vagina	tissue	adult	encode		H3K4me3		0.8425154089927673	\bvagina\b
+Uterus	4328	UBERON:0000996 TF ChIP-seq CTCF	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000996	vagina	tissue	adult	encode			CTCF	0.8318383097648621	\bvagina\b
+Uterus	4329	UBERON:0000996 TF ChIP-seq POLR2A	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000996	vagina	tissue	adult	encode			POLR2A	0.964464545249939	\bvagina\b
+Uterus	4330	UBERON:0000996 TF ChIP-seq POLR2AphosphoS5	.	TF ChIP-seq	OutputType.CHIP_TF	UBERON:0000996	vagina	tissue	adult	encode			POLR2AphosphoS5	1.2727644443511963	\bvagina\b
+Uterus	1206	UBERON:0000996 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000996	vagina	tissue	adult	encode				0.23906712234020233	\bvagina\b
+Uterus	1477	UBERON:0000996 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000996	vagina	tissue	adult	encode				0.23906712234020233	\bvagina\b
+Uterus	352	hCAGE UBERON:0000996	+	hCAGE	OutputType.CAGE	UBERON:0000996	vagina	tissue		fantom				192.70404052734375	\bvagina\b
+Uterus	625	hCAGE UBERON:0000996	-	hCAGE	OutputType.CAGE	UBERON:0000996	vagina	tissue		fantom				192.70404052734375	\bvagina\b
+Uterus	5382	junction_UBERON:0000996 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000996	vagina	tissue							\bvagina\b
+Uterus	4648	usage_UBERON:0000996 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000996	vagina	tissue	adult	encode					\bvagina\b
+Uterus	5015	usage_UBERON:0000996 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000996	vagina	tissue	adult	encode					\bvagina\b
+Eye	1188	UBERON:0000019 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000019	camera-type eye	tissue	embryonic	encode				0.0823257565498352	\beye\b;\beye\b
+Eye	1459	UBERON:0000019 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000019	camera-type eye	tissue	embryonic	encode				0.0823257565498352	\beye\b;\beye\b
+Eye	333	hCAGE UBERON:0000019	+	hCAGE	OutputType.CAGE	UBERON:0000019	camera-type eye	tissue		fantom				73.05904388427734	\beye\b;\beye\b
+Eye	606	hCAGE UBERON:0000019	-	hCAGE	OutputType.CAGE	UBERON:0000019	camera-type eye	tissue		fantom				73.05904388427734	\beye\b;\beye\b
+Eye	5358	junction_UBERON:0000019 total RNA-seq			OutputType.SPLICE_JUNCTIONS	UBERON:0000019	camera-type eye	tissue							\beye\b;\beye\b
+Eye	4624	usage_UBERON:0000019 total RNA-seq	+	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000019	camera-type eye	tissue	embryonic	encode					\beye\b;\beye\b
+Eye	4991	usage_UBERON:0000019 total RNA-seq	-	total RNA-seq	OutputType.SPLICE_SITE_USAGE	UBERON:0000019	camera-type eye	tissue	embryonic	encode					\beye\b;\beye\b
+Eye	936	UBERON:0000970 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0000970	eye	tissue	embryonic	encode				0.26817503571510315	\beye\b;\beye\b
+Eye	935	UBERON:0000966 DNase-seq	.	DNase-seq	OutputType.DNASE	UBERON:0000966	retina	tissue	embryonic	encode				0.5274835228919983	\bretina\b;\bretina\b
+Eye	347	hCAGE UBERON:0000966	+	hCAGE	OutputType.CAGE	UBERON:0000966	retina	tissue		fantom				32.83579635620117	\bretina\b;\bretina\b
+Eye	620	hCAGE UBERON:0000966	-	hCAGE	OutputType.CAGE	UBERON:0000966	retina	tissue		fantom				32.83579635620117	\bretina\b;\bretina\b

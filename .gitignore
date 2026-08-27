@@ -1,0 +1,17 @@
+data/*
+misc/*
+results/*
+figures/*
+
+.DS_Store
+*.log
+
+__pycache__
+
+*gdc-client
+.alphagenome_api_key
+.gdc-user-token.txt
+
+alphagenome_research/*
+scripts/data_preparation/download_TCGA_data/rna_seq_reads/gdc_rnaseq_gene_bigwigs/*
+scripts/data_preparation/download_TCGA_data/rna_seq_reads/gdc_rnaseq_gene_slices/*

@@ -1,0 +1,25 @@
+analysis_cohort	n_patients	driver_cancer_types	driver_gene_files	combined_driver_gene_file	n_driver_files	missing_driver_cancer_types	has_driver_gene_file
+ACC	4	ACC	data/driver_genes_coords/ACC.tsv		1		True
+BCC	3	SKCM	data/driver_genes_coords/SKCM.tsv		1		True
+BLCA	1	BLCA	data/driver_genes_coords/BLCA.tsv		1		True
+BRCA	144	BRCA	data/driver_genes_coords/BRCA.tsv		1		True
+CERV	4	CESC	data/driver_genes_coords/CESC.tsv		1		True
+CHOL	14	CHOL	data/driver_genes_coords/CHOL.tsv		1		True
+CNS-PNS	19	GBM;LGG	data/driver_genes_coords/GBM.tsv;data/driver_genes_coords/LGG.tsv		2		True
+COLO	87	COAD;READ	data/driver_genes_coords/COAD.tsv;data/driver_genes_coords/READ.tsv		2		True
+ESCA	10	ESCA	data/driver_genes_coords/ESCA.tsv		1		True
+HCC	2	LIHC	data/driver_genes_coords/LIHC.tsv		1		True
+HNSC	7	HNSC	data/driver_genes_coords/HNSC.tsv		1		True
+KDNY	5	KICH;KIRC;KIRP	data/driver_genes_coords/KICH.tsv;data/driver_genes_coords/KIRC.tsv;data/driver_genes_coords/KIRP.tsv		3		True
+LUNG	67	LUAD;LUSC	data/driver_genes_coords/LUAD.tsv;data/driver_genes_coords/LUSC.tsv		2		True
+LYMP	11	DLBC	data/driver_genes_coords/DLBC.tsv		1		True
+OV	28	OV	data/driver_genes_coords/OV.tsv		1		True
+PANC	42	PAAD	data/driver_genes_coords/PAAD.tsv		1		True
+PRAD	3	PRAD	data/driver_genes_coords/PRAD.tsv		1		True
+SARC	47	SARC	data/driver_genes_coords/SARC.tsv		1		True
+SKCM	13	SKCM	data/driver_genes_coords/SKCM.tsv		1		True
+STAD	11	STAD	data/driver_genes_coords/STAD.tsv		1		True
+THCA	4	THCA	data/driver_genes_coords/THCA.tsv		1		True
+THYM	4	THYM	data/driver_genes_coords/THYM.tsv		1		True
+UCEC	11	UCEC	data/driver_genes_coords/UCEC.tsv		1		True
+UVM	6	UVM	data/driver_genes_coords/UVM.tsv		1		True

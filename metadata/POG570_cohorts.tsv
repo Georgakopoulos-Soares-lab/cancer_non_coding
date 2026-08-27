@@ -1,0 +1,27 @@
+cohort	organ	hotspot_organ	pcawg_cohort_organ
+ACC	Adrenal_Gland	adrenalgland	
+BCC	Basal_Cell		
+BLCA	Bladder	bladder	Bladder
+BRCA	Breast	breast	Breast
+CERV	Cervix	cervix	Cervix
+CHOL	Bile_Duct	biliarytract	Biliary
+CNS-PNS	CNS	cnsbrain	CNS
+COLO	Colorectal	bowel	ColoRect
+ESCA	Esophagus	esophagusstomach	Eso
+HCC	Liver	liver	Liver
+HNSC	Head_and_Neck	headandneck	Head
+KDNY	Kidney	kidney	Kidney
+LUNG	Lung	lung	Lung
+LYMP	Blood_Lymph	blood,lymph	Lymph
+MISC	Miscellaneous		
+OV	Ovary	ovaryfallopiantube	Ovary
+PANC	Pancreas	pancreas	Panc
+PRAD	Prostate	prostate	Prost
+SARC	Bone_Soft_Tissue	bone,softtissue	Bone
+SECR	Secretary_Organs		
+SKCM	Skin	skin	Skin
+STAD	Stomach	esophagusstomach	Stomach
+THCA	Thyroid	thyroid	Thy
+THYM	Thymus	thymus	
+UCEC	Uterus	uterus	Uterus
+UVM	Uvea	eye	

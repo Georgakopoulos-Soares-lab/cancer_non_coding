@@ -1,0 +1,27 @@
+analysis_cohort	alphagenome_tissue	n_patients	n_tracks	has_tracks
+ACC	Adrenal Gland	4	27	True
+BCC	Skin	3	43	True
+BLCA	Bladder	1	19	True
+BRCA	Breast	144	21	True
+CERV	Cervix	4	14	True
+CHOL	Biliary	14	10	True
+CNS-PNS	CNS	19	72	True
+COLO	Colon	87	77	True
+ESCA	Esophagus	10	53	True
+HCC	Liver	2	63	True
+HNSC	Head	7	12	True
+KDNY	Kidney	5	76	True
+LUNG	Lung	67	106	True
+LYMP	Lymphoid	11	53	True
+MISC		11	0	False
+OV	Ovary	28	25	True
+PANC	Pancreas	42	46	True
+PRAD	Prostate	3	18	True
+SARC	Sarcoma	47	85	True
+SECR		12	0	False
+SKCM	Skin	13	43	True
+STAD	Stomach	11	38	True
+THCA	Thyroid	4	19	True
+THYM	Thymus	4	15	True
+UCEC	Uterus	11	39	True
+UVM	Eye	6	11	True

@@ -1,0 +1,49 @@
+Cancer type	Acronym	Projects	Organ	Hotspot cohort
+Adrenocortical carcinoma	ACC	TCGA	Adrenal Gland	adrenalgland
+Bladder Urothelial Carcinoma	BLCA	TCGA	Bladder	bladder
+Bone Cancer	BOCA	ICGC	Bone_SoftTissue	bone
+Breast invasive carcinoma	BRCA	ICGC,TCGA	Breast	breast
+Biliary Tract Cancer	BTCA	ICGC	Biliary	biliarytract
+Cervical squamous cell carcinoma and endocervical adenocarcinoma	CESC	TCGA	Cervix	cervix
+Cholangiocarcinoma	CHOL	TCGA	Biliary	biliarytract
+Chronic Lymphocytic Leukemia	CLLE	ICGC	Lymphoid	lymph
+Chronic Myeloid Disorders	CMDI	ICGC	Myeloid	blood
+Colon adenocarcinoma	COAD	TCGA	Colon_Rectum	bowel
+Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	DLBC	TCGA	Lymphoid	lymph
+Early Onset Prostate Cancer	EOPC	ICGC	Prostate	prostate
+Esophageal Adenocarcinoma	ESAD	ICGC	Esophagus	esophagusstomach
+Esophageal carcinoma	ESCA	TCGA	Esophagus	esophagusstomach
+Gastric Cancer	GACA	ICGC	Stomach	esophagusstomach
+Glioblastoma multiforme	GBM	TCGA	CNS	cnsbrain
+Head and Neck squamous cell carcinoma	HNSC	TCGA	Head_Neck	headandneck
+Kidney Chromophobe	KICH	TCGA	Kidney	kidney
+Kidney renal clear cell carcinoma	KIRC	TCGA	Kidney	kidney
+Kidney renal papillary cell carcinoma	KIRP	TCGA	Kidney	kidney
+Acute Myeloid Leukemia	LAML	TCGA	Myeloid	blood
+Brain Lower Grade Glioma	LGG	TCGA	CNS	cnsbrain
+Liver Cancer	LICA	ICGC	Liver	liver
+Liver hepatocellular carcinoma	LIHC	TCGA	Liver	liver
+Lung adenocarcinoma	LUAD	TCGA	Lung	lung
+Lung squamous cell carcinoma	LUSC	TCGA	Lung	lung
+Malignant Lymphoma	MALY	ICGC	Lymphoid	lymph
+Skin Cancer	MELA	ICGC	Skin	skin
+Mesothelioma	MESO	TCGA	Mesothelium	pleura
+Oral Cancer	ORCA	ICGC	Oral	
+Ovarian serous cystadenocarcinoma	OV	ICGC,TCGA	Ovary	ovaryfallopiantube
+Pancreatic adenocarcinoma	PAAD	TCGA	Pancreas	pancreas
+Pancreatic Cancer	PACA	ICGC	Pancreas	pancreas
+Pancreatic Cancer Endocrine neoplasms	PAEN	ICGC	Pancreas	pancreas
+Pediatric Brain Cancer	PBCA	ICGC	Pediatric	cnsbrain
+Pheochromocytoma and Paraganglioma	PCPG	TCGA	Adrenal Gland and other	adrenalgland
+Prostate adenocarcinoma	PRAD	ICGC,TCGA	Prostate	prostate
+Rectum adenocarcinoma	READ	TCGA	Colon_Rectum	bowel
+Renal Cancer	RECA	ICGC	Kidney	kidney
+Sarcoma	SARC	TCGA	Sarcoma	bone,softtissue
+Skin Cutaneous Melanoma	SKCM	TCGA	Skin	skin
+Stomach adenocarcinoma	STAD	TCGA	Stomach	esophagusstomach
+Testicular Germ Cell Tumors	TGCT	TCGA	Testis	testis
+Thyroid carcinoma	THCA	TCGA	Thyroid	thyroid
+Thymoma	THYM	TCGA	Thymus	thymus
+Uterine Corpus Endometrial Carcinoma	UCEC	TCGA	Uterus	uterus
+Uterine Carcinosarcoma	UCS	TCGA	Uterus	uterus
+Uveal Melanoma	UVM	TCGA	Eye	eye

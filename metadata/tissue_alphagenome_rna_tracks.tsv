@@ -1,0 +1,187 @@
+tissue	target_index	track_name	strand	assay_title	output_type	ontology_curie	biosample_name	biosample_type	biosample_life_stage	data_source	gtex_tissue	nonzero_mean	matched_patterns
+Adrenal Gland	1655	UBERON:0002369 gtex Adrenal_Gland polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	gtex	Adrenal_Gland	0.05743984505534172	\badrenal gland\b
+Adrenal Gland	1264	UBERON:0002369 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	encode		0.10644026100635529	\badrenal gland\b
+Adrenal Gland	1535	UBERON:0002369 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	encode		0.10644026100635529	\badrenal gland\b
+Adrenal Gland	1656	UBERON:0002369 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	embryonic	encode		0.32479262351989746	\badrenal gland\b
+Adrenal Gland	1265	UBERON:0002369 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	encode		0.09952406585216522	\badrenal gland\b
+Adrenal Gland	1536	UBERON:0002369 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002369	adrenal gland	tissue	adult	encode		0.09952406585216522	\badrenal gland\b
+Bladder	1625	UBERON:0001255 gtex Bladder polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	adult	gtex	Bladder	0.09805270284414291	\bbladder\b;\burinary bladder\b
+Bladder	1218	UBERON:0001255 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	child	encode		0.2732574939727783	\bbladder\b;\burinary bladder\b
+Bladder	1489	UBERON:0001255 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	child	encode		0.2732574939727783	\bbladder\b;\burinary bladder\b
+Bladder	1219	UBERON:0001255 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	embryonic	encode		0.06832712143659592	\bbladder\b;\burinary bladder\b
+Bladder	1490	UBERON:0001255 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001255	urinary bladder	tissue	embryonic	encode		0.06832712143659592	\bbladder\b;\burinary bladder\b
+Breast	1672	UBERON:0008367 gtex Breast_Mammary_Tissue polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0008367	breast epithelium	tissue	adult	gtex	Breast_Mammary_Tissue	0.04591913893818855	\bbreast\b;\bbreast\b
+Breast	1277	UBERON:0008367 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008367	breast epithelium	tissue	adult	encode		0.07852068543434143	\bbreast\b;\bbreast\b
+Breast	1548	UBERON:0008367 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008367	breast epithelium	tissue	adult	encode		0.07852068543434143	\bbreast\b;\bbreast\b
+Cervix	1667	UBERON:0006469 gtex Brain_Spinal_cord_cervical_c-1 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0006469	C1 segment of cervical spinal cord	tissue	adult	gtex	Brain_Spinal_cord_cervical_c-1	0.06018725037574768	\bcervical\b
+Cervix	1678	UBERON:0012249 gtex Cervix_Ectocervix polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0012249	ectocervix	tissue	adult	gtex	Cervix_Ectocervix	0.11553216725587845	\bectocervix\b
+Cervix	1608	UBERON:0000458 gtex Cervix_Endocervix polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000458	endocervix	tissue	adult	gtex	Cervix_Endocervix	0.11742750555276871	\bendocervix\b
+Biliary	1273	UBERON:0005033 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0005033	mucosa of gallbladder	tissue	child	encode		0.1606866717338562	\bgallbladder\b;\bgallbladder\b
+Biliary	1544	UBERON:0005033 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0005033	mucosa of gallbladder	tissue	child	encode		0.1606866717338562	\bgallbladder\b;\bgallbladder\b
+Colon	1621	UBERON:0001159 gtex Colon_Sigmoid polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	gtex	Colon_Sigmoid	0.0509834922850132	\bcolon\b;\bcolon\b
+Colon	1620	UBERON:0001157 gtex Colon_Transverse polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001157	transverse colon	tissue	adult	gtex	Colon_Transverse	0.049934789538383484	\bcolon\b;\bcolon\b
+Colon	1215	UBERON:0001159 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	encode		0.3216996192932129	\bcolon\b;\bcolon\b
+Colon	1486	UBERON:0001159 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	encode		0.3216996192932129	\bcolon\b;\bcolon\b
+Colon	1282	UBERON:0008971 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008971	left colon	tissue	adult	encode		0.1311025470495224	\bcolon\b;\bcolon\b
+Colon	1553	UBERON:0008971 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008971	left colon	tissue	adult	encode		0.1311025470495224	\bcolon\b;\bcolon\b
+Colon	1272	UBERON:0004992 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004992	mucosa of descending colon	tissue	adult	encode		0.10411433130502701	\bcolon\b;\bcolon\b
+Colon	1543	UBERON:0004992 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004992	mucosa of descending colon	tissue	adult	encode		0.10411433130502701	\bcolon\b;\bcolon\b
+Colon	1216	UBERON:0001159 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	encode		0.09938795119524002	\bcolon\b;\bcolon\b
+Colon	1487	UBERON:0001159 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001159	sigmoid colon	tissue	adult	encode		0.09938795119524002	\bcolon\b;\bcolon\b
+Colon	1214	UBERON:0001157 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001157	transverse colon	tissue	adult	encode		0.09727869927883148	\bcolon\b;\bcolon\b
+Colon	1485	UBERON:0001157 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001157	transverse colon	tissue	adult	encode		0.09727869927883148	\bcolon\b;\bcolon\b
+Lymphoid	1585	EFO:0000572 gtex Cells_EBV-transformed_lymphocytes polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	EFO:0000572	lymphoblast	tissue	adult	gtex	Cells_EBV-transformed_lymphocytes	0.06413153558969498	\blymphoblast\b
+Lymphoid	1643	UBERON:0002106 gtex Spleen polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	gtex	Spleen	0.05477229878306389	\bspleen\b;\bspleen\b
+Lymphoid	1679	UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0013756	venous blood	tissue	adult	gtex	Whole_Blood	0.05588344484567642	\bblood\b
+Lymphoid	1249	UBERON:0002106 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	encode		0.12643910944461823	\bspleen\b;\bspleen\b
+Lymphoid	1520	UBERON:0002106 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	encode		0.12643910944461823	\bspleen\b;\bspleen\b
+Lymphoid	1644	UBERON:0002106 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	embryonic	encode		0.39663490653038025	\bspleen\b;\bspleen\b
+Lymphoid	1266	UBERON:0002370 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode		0.13122648000717163	\bthymus\b
+Lymphoid	1537	UBERON:0002370 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode		0.13122648000717163	\bthymus\b
+Lymphoid	1657	UBERON:0002370 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode		0.17336340248584747	\bthymus\b
+Lymphoid	1250	UBERON:0002106 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	encode		0.08943069726228714	\bspleen\b;\bspleen\b
+Lymphoid	1521	UBERON:0002106 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002106	spleen	tissue	adult	encode		0.08943069726228714	\bspleen\b;\bspleen\b
+Esophagus	1664	UBERON:0004648 gtex Esophagus_Muscularis polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	gtex	Esophagus_Muscularis	0.05034983530640602	\besophagus\b;\besophagus\b
+Esophagus	1670	UBERON:0006920 gtex Esophagus_Mucosa polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0006920	esophagus squamous epithelium	tissue	adult	gtex	Esophagus_Mucosa	0.05086713656783104	\besophagus\b;\besophagus\b
+Esophagus	1208	UBERON:0001043 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001043	esophagus	tissue	adult	encode		0.09775491803884506	\besophagus\b;\besophagus\b
+Esophagus	1479	UBERON:0001043 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001043	esophagus	tissue	adult	encode		0.09775491803884506	\besophagus\b;\besophagus\b
+Esophagus	1267	UBERON:0002469 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002469	esophagus mucosa	tissue	adult	encode		0.2322499006986618	\besophagus\b;\besophagus\b
+Esophagus	1538	UBERON:0002469 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002469	esophagus mucosa	tissue	adult	encode		0.2322499006986618	\besophagus\b;\besophagus\b
+Esophagus	1271	UBERON:0004648 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode		0.1068030372262001	\besophagus\b;\besophagus\b
+Esophagus	1542	UBERON:0004648 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004648	esophagus muscularis mucosa	tissue	adult	encode		0.1068030372262001	\besophagus\b;\besophagus\b
+Esophagus	1275	UBERON:0006920 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode		0.09920122474431992	\besophagus\b;\besophagus\b
+Esophagus	1546	UBERON:0006920 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0006920	esophagus squamous epithelium	tissue	adult	encode		0.09920122474431992	\besophagus\b;\besophagus\b
+CNS	1636	UBERON:0001876 gtex Brain_Amygdala polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001876	amygdala	tissue	adult	gtex	Brain_Amygdala	0.05657550320029259	\bamygdala\b
+CNS	1640	UBERON:0002037 gtex Brain_Cerebellum polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	adult	gtex	Brain_Cerebellum	0.05265718325972557	\bcerebellum\b;\bcerebellum\b
+CNS	1633	UBERON:0001870 gtex Brain_Cortex polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001870	frontal cortex	tissue	adult	gtex	Brain_Cortex	0.043324146419763565	\bfrontal cortex\b
+CNS	1638	UBERON:0001898 gtex Brain_Hypothalamus polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001898	hypothalamus	tissue	adult	gtex	Brain_Hypothalamus	0.05152333900332451	\bhypothalamus\b
+CNS	1635	UBERON:0001874 gtex Brain_Putamen_basal_ganglia polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001874	putamen	tissue	adult	gtex	Brain_Putamen_basal_ganglia	0.05428667739033699	\bputamen\b
+CNS	1202	UBERON:0000955 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000955	brain	tissue	adult	encode		0.6184623837471008	\bbrain\b;\bbrain\b
+CNS	1473	UBERON:0000955 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000955	brain	tissue	adult	encode		0.6184623837471008	\bbrain\b;\bbrain\b
+CNS	1235	UBERON:0002037 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	embryonic	encode		0.09561976045370102	\bcerebellum\b;\bcerebellum\b
+CNS	1506	UBERON:0002037 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	embryonic	encode		0.09561976045370102	\bcerebellum\b;\bcerebellum\b
+CNS	1236	UBERON:0002037 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	embryonic	encode		0.04635050147771835	\bcerebellum\b;\bcerebellum\b
+CNS	1507	UBERON:0002037 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002037	cerebellum	tissue	embryonic	encode		0.04635050147771835	\bcerebellum\b;\bcerebellum\b
+CNS	1231	UBERON:0001894 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001894	diencephalon	tissue	embryonic	encode		0.07281812280416489	\bdiencephalon\b
+CNS	1502	UBERON:0001894 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001894	diencephalon	tissue	embryonic	encode		0.07281812280416489	\bdiencephalon\b
+CNS	1228	UBERON:0001870 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001870	frontal cortex	tissue	embryonic	encode		0.08561448007822037	\bfrontal cortex\b
+CNS	1499	UBERON:0001870 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001870	frontal cortex	tissue	embryonic	encode		0.08561448007822037	\bfrontal cortex\b
+Head	1227	UBERON:0001723 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001723	tongue	tissue	embryonic	encode		0.13978645205497742	\btongue\b;\btongue\b
+Head	1498	UBERON:0001723 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001723	tongue	tissue	embryonic	encode		0.13978645205497742	\btongue\b;\btongue\b
+Kidney	1624	UBERON:0001225 gtex Kidney_Cortex polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001225	cortex of kidney	tissue	adult	gtex	Kidney_Cortex	0.06602127104997635	\bkidney\b;\bkidney\b
+Kidney	1626	UBERON:0001293 gtex Kidney_Medulla polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001293	outer medulla of kidney	tissue	adult	gtex	Kidney_Medulla	0.18485306203365326	\bkidney\b;\bkidney\b
+Kidney	1254	UBERON:0002113 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	adult	encode		0.5964622497558594	\bkidney\b;\bkidney\b
+Kidney	1525	UBERON:0002113 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	adult	encode		0.5964622497558594	\bkidney\b;\bkidney\b
+Kidney	1647	UBERON:0002113 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	embryonic	encode		0.22629043459892273	\bkidney\b;\bkidney\b
+Kidney	1662	UBERON:0004538 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0004538	left kidney	tissue	embryonic	encode		0.3590563237667084	\bkidney\b;\bkidney\b
+Kidney	1682	UBERON:0018117 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0018117	left renal cortex interstitium	tissue	embryonic	encode		0.21519021689891815	\brenal\b
+Kidney	1680	UBERON:0018115 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0018115	left renal pelvis	tissue	embryonic	encode		0.2682223618030548	\brenal\b
+Kidney	1665	UBERON:0005270 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0005270	renal cortex interstitium	tissue	embryonic	encode		0.273677796125412	\brenal\b
+Kidney	1623	UBERON:0001224 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001224	renal pelvis	tissue	embryonic	encode		0.26900357007980347	\brenal\b
+Kidney	1683	UBERON:0018118 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0018118	right renal cortex interstitium	tissue	embryonic	encode		0.3656761348247528	\brenal\b
+Kidney	1681	UBERON:0018116 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0018116	right renal pelvis	tissue	embryonic	encode		0.25852155685424805	\brenal\b
+Kidney	1255	UBERON:0002113 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	adult	encode		0.13756509125232697	\bkidney\b;\bkidney\b
+Kidney	1526	UBERON:0002113 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002113	kidney	tissue	adult	encode		0.13756509125232697	\bkidney\b;\bkidney\b
+Kidney	1190	UBERON:0000081 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000081	metanephros	tissue	embryonic	encode		0.06954433768987656	\bmetanephros\b
+Kidney	1461	UBERON:0000081 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000081	metanephros	tissue	embryonic	encode		0.06954433768987656	\bmetanephros\b
+Kidney	1189	UBERON:0000056 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000056	ureter	tissue	adult	encode		0.1433965563774109	\bureter\b
+Kidney	1460	UBERON:0000056 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000056	ureter	tissue	adult	encode		0.1433965563774109	\bureter\b
+Myeloid	1679	UBERON:0013756 gtex Whole_Blood polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0013756	venous blood	tissue	adult	gtex	Whole_Blood	0.05588344484567642	\bblood\b;\bblood\b
+Liver	1618	UBERON:0001114 gtex Liver polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001114	right lobe of liver	tissue	adult	gtex	Liver	0.06319103389978409	\bliver\b;\bliver\b
+Liver	1251	UBERON:0002107 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	child	encode		0.37201911211013794	\bliver\b;\bliver\b
+Liver	1522	UBERON:0002107 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	child	encode		0.37201911211013794	\bliver\b;\bliver\b
+Liver	1645	UBERON:0002107 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	child,adult	encode		0.23851369321346283	\bliver\b;\bliver\b
+Liver	1211	UBERON:0001115 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001115	left lobe of liver	tissue	adult	encode		0.2238539606332779	\bliver\b;\bliver\b
+Liver	1482	UBERON:0001115 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001115	left lobe of liver	tissue	adult	encode		0.2238539606332779	\bliver\b;\bliver\b
+Liver	1252	UBERON:0002107 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	embryonic	encode		0.1001405194401741	\bliver\b;\bliver\b
+Liver	1523	UBERON:0002107 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002107	liver	tissue	embryonic	encode		0.1001405194401741	\bliver\b;\bliver\b
+Liver	1210	UBERON:0001114 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001114	right lobe of liver	tissue	adult	encode		0.1526584029197693	\bliver\b;\bliver\b
+Liver	1481	UBERON:0001114 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001114	right lobe of liver	tissue	adult	encode		0.1526584029197693	\bliver\b;\bliver\b
+Lung	1673	UBERON:0008952 gtex Lung polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0008952	upper lobe of left lung	tissue	adult	gtex	Lung	0.04629707708954811	\blung\b;\blung\b
+Lung	1649	UBERON:0002168 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002168	left lung	tissue	embryonic	encode		0.17341721057891846	\blung\b;\blung\b
+Lung	1238	UBERON:0002048 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002048	lung	tissue	adult	encode		0.11917171627283096	\blung\b;\blung\b
+Lung	1509	UBERON:0002048 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002048	lung	tissue	adult	encode		0.11917171627283096	\blung\b;\blung\b
+Lung	1648	UBERON:0002167 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002167	right lung	tissue	embryonic	encode		0.1865345537662506	\blung\b;\blung\b
+Lung	1256	UBERON:0002168 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002168	left lung	tissue	adult	encode		0.15085317194461823	\blung\b;\blung\b
+Lung	1527	UBERON:0002168 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002168	left lung	tissue	adult	encode		0.15085317194461823	\blung\b;\blung\b
+Lung	1281	UBERON:0008953 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008953	lower lobe of left lung	tissue	adult	encode		0.10869968682527542	\blung\b;\blung\b
+Lung	1552	UBERON:0008953 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008953	lower lobe of left lung	tissue	adult	encode		0.10869968682527542	\blung\b;\blung\b
+Lung	1258	UBERON:0002171 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002171	lower lobe of right lung	tissue	adult	encode		0.16713519394397736	\blung\b;\blung\b
+Lung	1529	UBERON:0002171 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002171	lower lobe of right lung	tissue	adult	encode		0.16713519394397736	\blung\b;\blung\b
+Lung	1239	UBERON:0002048 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002048	lung	tissue	embryonic	encode		0.08134463429450989	\blung\b;\blung\b
+Lung	1510	UBERON:0002048 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002048	lung	tissue	embryonic	encode		0.08134463429450989	\blung\b;\blung\b
+Lung	1280	UBERON:0008952 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008952	upper lobe of left lung	tissue	adult	encode		0.0914291962981224	\blung\b;\blung\b
+Lung	1551	UBERON:0008952 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008952	upper lobe of left lung	tissue	adult	encode		0.0914291962981224	\blung\b;\blung\b
+Lung	1257	UBERON:0002170 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002170	upper lobe of right lung	tissue	adult	encode		0.18277625739574432	\blung\b;\blung\b
+Lung	1528	UBERON:0002170 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002170	upper lobe of right lung	tissue	adult	encode		0.18277625739574432	\blung\b;\blung\b
+Mesothelium	1101	CL:0011019 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	CL:0011019	mesothelial cell of epicardium	in_vitro_differentiated_cells	embryonic	encode		0.08205718547105789	\bmesothelial\b
+Mesothelium	1372	CL:0011019 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	CL:0011019	mesothelial cell of epicardium	in_vitro_differentiated_cells	embryonic	encode		0.08205718547105789	\bmesothelial\b
+Ovary	1614	UBERON:0000992 gtex Ovary polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	gtex	Ovary	0.054519396275281906	\bovary\b;\bovary\b
+Ovary	1203	UBERON:0000992 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	encode		0.12122903764247894	\bovary\b;\bovary\b
+Ovary	1474	UBERON:0000992 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	encode		0.12122903764247894	\bovary\b;\bovary\b
+Ovary	1615	UBERON:0000992 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	embryonic	encode		0.418280690908432	\bovary\b;\bovary\b
+Ovary	1204	UBERON:0000992 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	encode		0.11545416712760925	\bovary\b;\bovary\b
+Ovary	1475	UBERON:0000992 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000992	ovary	tissue	adult	encode		0.11545416712760925	\bovary\b;\bovary\b
+Pancreas	1619	UBERON:0001150 gtex Pancreas polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001150	body of pancreas	tissue	adult	gtex	Pancreas	0.0555739589035511	\bpancreas\b;\bpancreas\b
+Pancreas	1187	UBERON:0000016 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000016	endocrine pancreas	tissue	adult	encode		0.08397355675697327	\bpancreas\b;\bpancreas\b
+Pancreas	1458	UBERON:0000016 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000016	endocrine pancreas	tissue	adult	encode		0.08397355675697327	\bpancreas\b;\bpancreas\b
+Pancreas	1220	UBERON:0001264 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001264	pancreas	tissue	adult	encode		0.1047201007604599	\bpancreas\b;\bpancreas\b
+Pancreas	1491	UBERON:0001264 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001264	pancreas	tissue	adult	encode		0.1047201007604599	\bpancreas\b;\bpancreas\b
+Pancreas	1213	UBERON:0001150 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001150	body of pancreas	tissue	adult	encode		0.14467252790927887	\bpancreas\b;\bpancreas\b
+Pancreas	1484	UBERON:0001150 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001150	body of pancreas	tissue	adult	encode		0.14467252790927887	\bpancreas\b;\bpancreas\b
+Pancreas	1221	UBERON:0001264 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001264	pancreas	tissue	adult	encode		0.10486374795436859	\bpancreas\b;\bpancreas\b
+Pancreas	1492	UBERON:0001264 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001264	pancreas	tissue	adult	encode		0.10486374795436859	\bpancreas\b;\bpancreas\b
+Prostate	1654	UBERON:0002367 gtex Prostate polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002367	prostate gland	tissue	adult	gtex	Prostate	0.05147687718272209	\bprostate\b
+Prostate	1263	UBERON:0002367 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002367	prostate gland	tissue	adult	encode		0.13585683703422546	\bprostate\b
+Prostate	1534	UBERON:0002367 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002367	prostate gland	tissue	adult	encode		0.13585683703422546	\bprostate\b
+Sarcoma	1677	UBERON:0011907 gtex Muscle_Skeletal polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0011907	gastrocnemius medialis	tissue	adult	gtex	Muscle_Skeletal	0.046867091208696365	\bgastrocnemius medialis\b
+Sarcoma	1630	UBERON:0001499 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001499	muscle of arm	tissue	embryonic	encode		0.31494125723838806	\bmuscle of arm\b
+Sarcoma	1653	UBERON:0002324 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002324	muscle of back	tissue	embryonic	encode		0.2242487370967865	\bmuscle of back\b
+Sarcoma	1224	UBERON:0001383 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001383	muscle of leg	tissue	embryonic	encode		0.09429461508989334	\bmuscle of leg\b
+Sarcoma	1495	UBERON:0001383 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001383	muscle of leg	tissue	embryonic	encode		0.09429461508989334	\bmuscle of leg\b
+Sarcoma	1628	UBERON:0001383 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001383	muscle of leg	tissue	embryonic	encode		0.21778036653995514	\bmuscle of leg\b
+Sarcoma	1632	UBERON:0001774 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0001774	muscle of trunk	tissue	embryonic	encode		0.08671995252370834	\bmuscle of trunk\b
+Sarcoma	1278	UBERON:0008450 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0008450	psoas muscle	tissue	adult	encode		0.14193594455718994	\bpsoas muscle\b
+Sarcoma	1549	UBERON:0008450 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0008450	psoas muscle	tissue	adult	encode		0.14193594455718994	\bpsoas muscle\b
+Sarcoma	1285	UBERON:0011907 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode		0.14263799786567688	\bgastrocnemius medialis\b
+Sarcoma	1556	UBERON:0011907 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0011907	gastrocnemius medialis	tissue	adult	encode		0.14263799786567688	\bgastrocnemius medialis\b
+Sarcoma	1279	UBERON:0008450 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008450	psoas muscle	tissue	adult	encode		0.19859784841537476	\bpsoas muscle\b
+Sarcoma	1550	UBERON:0008450 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0008450	psoas muscle	tissue	adult	encode		0.19859784841537476	\bpsoas muscle\b
+Sarcoma	1212	UBERON:0001134 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001134	skeletal muscle tissue	tissue	embryonic	encode		0.10401706397533417	\bskeletal muscle tissue\b
+Sarcoma	1483	UBERON:0001134 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0001134	skeletal muscle tissue	tissue	embryonic	encode		0.10401706397533417	\bskeletal muscle tissue\b
+Skin	1661	UBERON:0004264 gtex Skin_Sun_Exposed_Lower_leg polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0004264	lower leg skin	tissue	adult	gtex	Skin_Sun_Exposed_Lower_leg	0.044400908052921295	\bskin\b
+Skin	1684	UBERON:0036149 gtex Skin_Not_Sun_Exposed_Suprapubic polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0036149	suprapubic skin	tissue	adult	gtex	Skin_Not_Sun_Exposed_Suprapubic	0.04540431126952171	\bskin\b
+Skin	1288	UBERON:1000010 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:1000010	mole	tissue	unknown	encode		0.14376847445964813	\bmole\b
+Skin	1559	UBERON:1000010 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:1000010	mole	tissue	unknown	encode		0.14376847445964813	\bmole\b
+Skin	1269	UBERON:0004264 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004264	lower leg skin	tissue	adult	encode		0.12619370222091675	\bskin\b
+Skin	1540	UBERON:0004264 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0004264	lower leg skin	tissue	adult	encode		0.12619370222091675	\bskin\b
+Skin	1247	UBERON:0002097 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002097	skin of body	tissue	embryonic	encode		0.07668855786323547	\bskin\b
+Skin	1518	UBERON:0002097 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002097	skin of body	tissue	embryonic	encode		0.07668855786323547	\bskin\b
+Skin	1287	UBERON:0036149 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0036149	suprapubic skin	tissue	adult	encode		0.10089779645204544	\bskin\b
+Skin	1558	UBERON:0036149 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0036149	suprapubic skin	tissue	adult	encode		0.10089779645204544	\bskin\b
+Stomach	1611	UBERON:0000945 gtex Stomach polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	gtex	Stomach	0.051221586763858795	\bstomach\b;\bstomach\b
+Stomach	1196	UBERON:0000945 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	encode		0.4686560034751892	\bstomach\b;\bstomach\b
+Stomach	1467	UBERON:0000945 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	encode		0.4686560034751892	\bstomach\b;\bstomach\b
+Stomach	1612	UBERON:0000945 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	embryonic	encode		0.08617443591356277	\bstomach\b;\bstomach\b
+Stomach	1197	UBERON:0000945 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	encode		0.21596461534500122	\bstomach\b;\bstomach\b
+Stomach	1468	UBERON:0000945 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000945	stomach	tissue	adult	encode		0.21596461534500122	\bstomach\b;\bstomach\b
+Testis	1609	UBERON:0000473 gtex Testis polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	gtex	Testis	0.03635135665535927	\btestis\b;\btestis\b
+Testis	1194	UBERON:0000473 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	encode		0.1770746260881424	\btestis\b;\btestis\b
+Testis	1465	UBERON:0000473 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	encode		0.1770746260881424	\btestis\b;\btestis\b
+Testis	1610	UBERON:0000473 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	embryonic	encode		0.7033047676086426	\btestis\b;\btestis\b
+Testis	1195	UBERON:0000473 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	encode		0.05251283198595047	\btestis\b;\btestis\b
+Testis	1466	UBERON:0000473 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000473	testis	tissue	adult	encode		0.05251283198595047	\btestis\b;\btestis\b
+Thyroid	1642	UBERON:0002046 gtex Thyroid polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002046	thyroid gland	tissue	adult	gtex	Thyroid	0.04541570320725441	\bthyroid\b
+Thyroid	1237	UBERON:0002046 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002046	thyroid gland	tissue	adult	encode		0.07622677832841873	\bthyroid\b
+Thyroid	1508	UBERON:0002046 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0002046	thyroid gland	tissue	adult	encode		0.07622677832841873	\bthyroid\b
+Thymus	1266	UBERON:0002370 polyA plus RNA-seq	+	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode		0.13122648000717163	\bthymus\b;\bthymus\b
+Thymus	1537	UBERON:0002370 polyA plus RNA-seq	-	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode		0.13122648000717163	\bthymus\b;\bthymus\b
+Thymus	1657	UBERON:0002370 polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0002370	thymus	tissue	embryonic	encode		0.17336340248584747	\bthymus\b;\bthymus\b
+Uterus	1616	UBERON:0000995 gtex Uterus polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000995	uterus	tissue	adult	gtex	Uterus	0.059197694063186646	\buterus\b;\buterus\b
+Uterus	1617	UBERON:0000996 gtex Vagina polyA plus RNA-seq	.	polyA plus RNA-seq	OutputType.RNA_SEQ	UBERON:0000996	vagina	tissue	adult	gtex	Vagina	0.05682068690657616	\bvagina\b
+Uterus	1205	UBERON:0000995 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000995	uterus	tissue	adult	encode		0.36165136098861694	\buterus\b;\buterus\b
+Uterus	1476	UBERON:0000995 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000995	uterus	tissue	adult	encode		0.36165136098861694	\buterus\b;\buterus\b
+Uterus	1206	UBERON:0000996 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000996	vagina	tissue	adult	encode		0.23906712234020233	\bvagina\b
+Uterus	1477	UBERON:0000996 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000996	vagina	tissue	adult	encode		0.23906712234020233	\bvagina\b
+Eye	1188	UBERON:0000019 total RNA-seq	+	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000019	camera-type eye	tissue	embryonic	encode		0.0823257565498352	\beye\b;\beye\b
+Eye	1459	UBERON:0000019 total RNA-seq	-	total RNA-seq	OutputType.RNA_SEQ	UBERON:0000019	camera-type eye	tissue	embryonic	encode		0.0823257565498352	\beye\b;\beye\b
