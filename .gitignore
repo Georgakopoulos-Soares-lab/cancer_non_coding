@@ -12,6 +12,6 @@ __pycache__
 .alphagenome_api_key
 .gdc-user-token.txt
 
-alphagenome_research/*
+alphagenome_research/
 scripts/data_preparation/download_TCGA_data/rna_seq_reads/gdc_rnaseq_gene_bigwigs/*
 scripts/data_preparation/download_TCGA_data/rna_seq_reads/gdc_rnaseq_gene_slices/*
